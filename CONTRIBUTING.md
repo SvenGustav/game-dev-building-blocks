@@ -1,26 +1,36 @@
 # Contributing
 
-Thanks for helping make this a practical catalog of reusable game-development building blocks.
+Help keep this a practical catalog of reusable game-development parts, not a showcase of finished games.
 
 ## What belongs
 
-- A public GitHub repository with source code, a working tool, a reusable library, a starter/template, a complete game, or a reference implementation.
-- A clear use in one or more phases of game development.
-- A repository URL at the project root (`https://github.com/owner/repo`).
-- A short, factual description. State what the project does; do not make unsupported quality, compatibility, security, or maintenance claims.
+- A public GitHub repository with reusable code, an engine or framework, a working tool, a content pipeline, or a genuine starter template.
+- At least 10 GitHub stars when checked.
+- A clear use in game development, with an engine, game type, and development layer that can be stated from the repository itself.
+- A repository-root URL (`https://github.com/owner/repo`) and a short factual description.
 
 ## What does not belong
 
-- Non-repository links, asset marketplaces, commercial products without a GitHub code repository, or general programming projects with no concrete game-development use.
-- Duplicate entries, forks that add no distinct value, abandoned experiments presented as maintained tools, or promotional submissions.
-- Descriptions that imply universal compatibility. Identify the engine, language, or platform when known.
+- Repositories below 10 stars.
+- Complete games, game/demo/sample projects, tutorials, learning-only repositories, resource roundups, or other awesome lists.
+- Asset marketplaces, commercial products without a GitHub code repository, and general-purpose projects without a concrete game-development use.
+- Entries with unclear provenance or descriptions that claim compatibility, security, quality, or maintenance without evidence.
 
-## Submit a change
+A reusable engine or system may mention its own sample game; that does not make the repository a sample project. Explicit reusable templates are allowed when they provide a real base for new work.
 
-1. Pick the best-fit section in `README.md`.
-2. Add one bullet in this format: `- [owner/repo](https://github.com/owner/repo) — concise description.`
-3. Keep the link at the repository root and check for duplicates.
-4. If the repository is archived, mark it as `[Archived]` in the description or omit it unless it remains useful as a reference.
-5. Run `python3 scripts/validate.py` and include the result in your pull request.
+## Add or update an entry
 
-The list is a discovery index, not an endorsement. Readers must check upstream licensing, activity, compatibility, and security before adopting a project. Each linked repository retains its own terms.
+1. Check the repository is public, has at least 10 stars, and contains the code or tool being described.
+2. Add one record to `data/catalog.json`: repository, URL, factual description, star count, engine tags, game-type tags, workflow, language, license, archive status, and last-push metadata.
+3. Use `Cross-engine` only when the project is not tied to a named engine. Use `Cross-genre` when no game type is clearly supported.
+4. Do not tag an engine or game type just because it appears incidentally in the README; tag only a stated integration or a clear use case.
+5. Rebuild and validate:
+
+   ```sh
+   python3 scripts/build_catalog.py
+   python3 scripts/validate.py
+   ```
+
+Star counts are snapshots and can fall below the threshold later. Refresh the metadata and remove entries that no longer meet the rule.
+
+The catalog is a discovery index, not an endorsement. Each project retains its own license. Check current license terms, supported versions, maintenance, security, platforms, and integration fit before adopting any part.

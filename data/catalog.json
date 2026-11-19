@@ -1,0 +1,5619 @@
+[
+  {
+    "repo": "4ian/GDevelop",
+    "url": "https://github.com/4ian/GDevelop",
+    "description": "🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.",
+    "stars": 29065,
+    "engines": [
+      "GDevelop"
+    ],
+    "game_types": [
+      "2D",
+      "3D",
+      "Multiplayer & online"
+    ],
+    "workflow": "Engines & frameworks",
+    "reusable_kind": "engine/framework",
+    "language": "JavaScript",
+    "license": "NOASSERTION",
+    "archived": false,
+    "pushed_at": "2026-11-18T16:20:51Z"
+  },
+  {
+    "repo": "A11YTK/A11YTK",
+    "url": "https://github.com/A11YTK/A11YTK",
+    "description": "The Accessibility Toolkit is an open-source Unity package for adding context-aware subtitles in VR, AR, and non-XR environments.",
+    "stars": 15,
+    "engines": [
+      "Unity"
+    ],
+    "game_types": [
+      "VR & XR"
+    ],
+    "workflow": "UI, input, accessibility & localization",
+    "reusable_kind": "library-or-tool",
+    "language": "C#",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2024-07-30T19:14:02Z"
+  },
+  {
+    "repo": "a1studmuffin/SpaceshipGenerator",
+    "url": "https://github.com/a1studmuffin/SpaceshipGenerator",
+    "description": "A Blender script to procedurally generate 3D spaceships",
+    "stars": 7869,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "3D"
+    ],
+    "workflow": "Art, sprites, animation & 3D",
+    "reusable_kind": "content-tool",
+    "language": "Python",
+    "license": "NOASSERTION",
+    "archived": false,
+    "pushed_at": "2024-05-25T16:11:50Z"
+  },
+  {
+    "repo": "abarichello/godot-ci",
+    "url": "https://github.com/abarichello/godot-ci",
+    "description": "Docker image to export Godot Engine games. Templates for Gitlab CI and GitHub Actions to deploy to GitLab Pages/GitHub Pages/Itch.io.",
+    "stars": 1159,
+    "engines": [
+      "Godot"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Build, CI & release",
+    "reusable_kind": "library-or-tool",
+    "language": "Dockerfile",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-10-20T18:48:06Z"
+  },
+  {
+    "repo": "adaptyteam/AdaptySDK-Unity",
+    "url": "https://github.com/adaptyteam/AdaptySDK-Unity",
+    "description": "SDK for growing mobile in-app purchases",
+    "stars": 85,
+    "engines": [
+      "Unity"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Publishing & monetization",
+    "reusable_kind": "library-or-tool",
+    "language": "C#",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-18T13:55:56Z"
+  },
+  {
+    "repo": "adrien-bon/bevy_ecs_tiled",
+    "url": "https://github.com/adrien-bon/bevy_ecs_tiled",
+    "description": "Helpers for working with 2D tilemaps created with the Tiled map editor",
+    "stars": 181,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "2D"
+    ],
+    "workflow": "Levels & world building",
+    "reusable_kind": "content-tool",
+    "language": "Rust",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-11T17:23:17Z"
+  },
+  {
+    "repo": "aframevr/aframe",
+    "url": "https://github.com/aframevr/aframe",
+    "description": ":a: Web framework for building virtual reality experiences.",
+    "stars": 17714,
+    "engines": [
+      "Three.js"
+    ],
+    "game_types": [
+      "3D",
+      "VR & XR"
+    ],
+    "workflow": "Architecture, ECS & scripting",
+    "reusable_kind": "library-or-tool",
+    "language": "JavaScript",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-07-13T15:27:11Z"
+  },
+  {
+    "repo": "agones-dev/agones",
+    "url": "https://github.com/agones-dev/agones",
+    "description": "Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes",
+    "stars": 7107,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Multiplayer & online"
+    ],
+    "workflow": "Backend, persistence & live operations",
+    "reusable_kind": "library-or-tool",
+    "language": "Go",
+    "license": "Apache-2.0",
+    "archived": false,
+    "pushed_at": "2026-11-18T23:01:08Z"
+  },
+  {
+    "repo": "alaingalvan/CrossShader",
+    "url": "https://github.com/alaingalvan/CrossShader",
+    "description": "⚔️ A tool for cross compiling shaders. Convert between GLSL, HLSL, Metal Shader Language, or older versions of GLSL.",
+    "stars": 309,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Rendering, shaders & visual effects",
+    "reusable_kind": "content-tool",
+    "language": "C++",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2023-03-04T03:03:13Z"
+  },
+  {
+    "repo": "albertok/godot-rocket-league",
+    "url": "https://github.com/albertok/godot-rocket-league",
+    "description": "Network physics with rollback test using Godot and netfox",
+    "stars": 126,
+    "engines": [
+      "Godot"
+    ],
+    "game_types": [
+      "Multiplayer & online"
+    ],
+    "workflow": "Networking & multiplayer",
+    "reusable_kind": "library-or-tool",
+    "language": "GDScript",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-03-19T12:29:32Z"
+  },
+  {
+    "repo": "alttester/AltTester-Unity-SDK",
+    "url": "https://github.com/alttester/AltTester-Unity-SDK",
+    "description": "AltTester Unity SDK is an UI driven test automation tool that helps you find objects in your game and interacts with them using tests written in C#, Python, Robot or Java.",
+    "stars": 127,
+    "engines": [
+      "Unity"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Testing & QA",
+    "reusable_kind": "library-or-tool",
+    "language": "C#",
+    "license": "GPL-3.0",
+    "archived": false,
+    "pushed_at": "2026-11-17T07:37:02Z"
+  },
+  {
+    "repo": "AmplitudeAudio/sdk",
+    "url": "https://github.com/AmplitudeAudio/sdk",
+    "description": "A powerful cross-platform audio engine, optimized for games.",
+    "stars": 83,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Audio & music",
+    "reusable_kind": "content-tool",
+    "language": "C++",
+    "license": "Apache-2.0",
+    "archived": false,
+    "pushed_at": "2026-11-08T02:53:52Z"
+  },
+  {
+    "repo": "Amulet-Team/Amulet-Map-Editor",
+    "url": "https://github.com/Amulet-Team/Amulet-Map-Editor",
+    "description": "A Minecraft world editor and converter that supports all versions since Java 1.12 and Bedrock 1.7.",
+    "stars": 2261,
+    "engines": [
+      "Minecraft"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Levels & world building",
+    "reusable_kind": "content-tool",
+    "language": "Python",
+    "license": "NOASSERTION",
+    "archived": false,
+    "pushed_at": "2026-11-09T13:20:08Z"
+  },
+  {
+    "repo": "andstor/voxelizer",
+    "url": "https://github.com/andstor/voxelizer",
+    "description": ":space_invader: Voxelization of 3D models",
+    "stars": 61,
+    "engines": [
+      "Three.js"
+    ],
+    "game_types": [
+      "3D"
+    ],
+    "workflow": "Art, sprites, animation & 3D",
+    "reusable_kind": "content-tool",
+    "language": "JavaScript",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2024-03-20T18:32:34Z"
+  },
+  {
+    "repo": "animate-css/animate.css",
+    "url": "https://github.com/animate-css/animate.css",
+    "description": "🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.",
+    "stars": 83028,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Art, sprites, animation & 3D",
+    "reusable_kind": "content-tool",
+    "language": "CSS",
+    "license": "NOASSERTION",
+    "archived": false,
+    "pushed_at": "2024-07-29T19:34:21Z"
+  },
+  {
+    "repo": "AntonPalmqvist/physically-based-api",
+    "url": "https://github.com/AntonPalmqvist/physically-based-api",
+    "description": "A database of physically based values for CG artists.",
+    "stars": 488,
+    "engines": [
+      "Unreal Engine"
+    ],
+    "game_types": [
+      "3D"
+    ],
+    "workflow": "Rendering, shaders & visual effects",
+    "reusable_kind": "content-tool",
+    "language": "JavaScript",
+    "license": "CC0-1.0",
+    "archived": false,
+    "pushed_at": "2026-11-14T23:23:15Z"
+  },
+  {
+    "repo": "anuraghazra/Verly.js",
+    "url": "https://github.com/anuraghazra/Verly.js",
+    "description": ":red_circle::wavy_dash::large_blue_circle::wavy_dash::black_circle: Easy to integrate Verlet physics engine. :link:",
+    "stars": 711,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "2D"
+    ],
+    "workflow": "Gameplay systems, physics & AI",
+    "reusable_kind": "library-or-tool",
+    "language": "JavaScript",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2025-02-19T20:24:26Z"
+  },
+  {
+    "repo": "armory3d/armorpaint",
+    "url": "https://github.com/armory3d/armorpaint",
+    "description": "Graphics Creation Tools",
+    "stars": 5507,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "3D"
+    ],
+    "workflow": "Art, sprites, animation & 3D",
+    "reusable_kind": "content-tool",
+    "language": "C",
+    "license": "NOASSERTION",
+    "archived": false,
+    "pushed_at": "2026-11-18T16:45:58Z"
+  },
+  {
+    "repo": "armory3d/armory",
+    "url": "https://github.com/armory3d/armory",
+    "description": "3D Engine with Blender Integration",
+    "stars": 3373,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "3D"
+    ],
+    "workflow": "Art, sprites, animation & 3D",
+    "reusable_kind": "content-tool",
+    "language": "C++",
+    "license": "Zlib",
+    "archived": false,
+    "pushed_at": "2026-11-08T08:42:41Z"
+  },
+  {
+    "repo": "ArtyProf/steamworks-ffi-node",
+    "url": "https://github.com/ArtyProf/steamworks-ffi-node",
+    "description": "A TypeScript/JavaScript wrapper for the Steamworks SDK using Koffi FFI, designed for Node.js and Electron applications with Steamworks SDK integration.",
+    "stars": 93,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Publishing & monetization",
+    "reusable_kind": "library-or-tool",
+    "language": "TypeScript",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-12T16:29:11Z"
+  },
+  {
+    "repo": "aseprite/aseprite",
+    "url": "https://github.com/aseprite/aseprite",
+    "description": "Animated sprite editor & pixel art tool (Windows, macOS, Linux)",
+    "stars": 41023,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "2D"
+    ],
+    "workflow": "Asset pipelines & formats",
+    "reusable_kind": "content-tool",
+    "language": "C++",
+    "license": null,
+    "archived": false,
+    "pushed_at": "2026-11-18T21:31:05Z"
+  },
+  {
+    "repo": "AssetRipper/AssetRipper",
+    "url": "https://github.com/AssetRipper/AssetRipper",
+    "description": "GUI application to analyze game files",
+    "stars": 8950,
+    "engines": [
+      "Unity"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Asset pipelines & formats",
+    "reusable_kind": "content-tool",
+    "language": "C#",
+    "license": "GPL-3.0",
+    "archived": false,
+    "pushed_at": "2026-11-16T21:46:58Z"
+  },
+  {
+    "repo": "AssiamahS/opengym3d",
+    "url": "https://github.com/AssiamahS/opengym3d",
+    "description": "Open-source 3D exercise animation library — Blender renders in CI, Three.js viewer on Pages",
+    "stars": 25,
+    "engines": [
+      "Unity",
+      "Three.js"
+    ],
+    "game_types": [
+      "3D"
+    ],
+    "workflow": "Art, sprites, animation & 3D",
+    "reusable_kind": "content-tool",
+    "language": "Python",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-09-15T18:11:41Z"
+  },
+  {
+    "repo": "Avalin/Unity-CI-CD",
+    "url": "https://github.com/Avalin/Unity-CI-CD",
+    "description": "Unity CI/CD pipeline with multi-platform builds, releases, and deploys",
+    "stars": 129,
+    "engines": [
+      "Unity"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Build, CI & release",
+    "reusable_kind": "library-or-tool",
+    "language": "ShaderLab",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-07-14T09:00:08Z"
+  },
+  {
+    "repo": "axmolengine/axmol",
+    "url": "https://github.com/axmolengine/axmol",
+    "description": "Open-source C++ game engine with Lua for 2D and 3D games across mobile, desktop, WebAssembly, and Xbox (UWP).",
+    "stars": 1508,
+    "engines": [
+      "Other engines"
+    ],
+    "game_types": [
+      "2D",
+      "3D"
+    ],
+    "workflow": "Engines & frameworks",
+    "reusable_kind": "engine/framework",
+    "language": "C++",
+    "license": "NOASSERTION",
+    "archived": false,
+    "pushed_at": "2026-11-18T03:40:41Z"
+  },
+  {
+    "repo": "Azgaar/Fantasy-Map-Generator",
+    "url": "https://github.com/Azgaar/Fantasy-Map-Generator",
+    "description": "Web application generating interactive and highly customizable maps",
+    "stars": 6225,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Levels & world building",
+    "reusable_kind": "content-tool",
+    "language": "TypeScript",
+    "license": "NOASSERTION",
+    "archived": false,
+    "pushed_at": "2026-11-18T22:24:39Z"
+  },
+  {
+    "repo": "BabylonJS/Babylon.js",
+    "url": "https://github.com/BabylonJS/Babylon.js",
+    "description": "JavaScript game and rendering engine.",
+    "stars": 26401,
+    "engines": [
+      "Babylon.js"
+    ],
+    "game_types": [
+      "3D"
+    ],
+    "workflow": "Engines & frameworks",
+    "reusable_kind": "engine/framework",
+    "language": "TypeScript",
+    "license": "Apache-2.0",
+    "archived": false,
+    "pushed_at": null
+  },
+  {
+    "repo": "baldurk/renderdoc",
+    "url": "https://github.com/baldurk/renderdoc",
+    "description": "RenderDoc is a stand-alone graphics debugging tool.",
+    "stars": 11335,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Debugging & profiling",
+    "reusable_kind": "library-or-tool",
+    "language": "C++",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-13T15:15:12Z"
+  },
+  {
+    "repo": "bbbscarter/GodotRuntimeDebugTools",
+    "url": "https://github.com/bbbscarter/GodotRuntimeDebugTools",
+    "description": "A proof-of-concept Godot addon to improve the runtime debugging experience",
+    "stars": 251,
+    "engines": [
+      "Godot"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Debugging & profiling",
+    "reusable_kind": "library-or-tool",
+    "language": "GDScript",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2024-10-11T21:18:22Z"
+  },
+  {
+    "repo": "bbepis/XUnity.AutoTranslator",
+    "url": "https://github.com/bbepis/XUnity.AutoTranslator",
+    "description": "Unity game mod framework for translating in-game text through configurable translation services.",
+    "stars": 3518,
+    "engines": [
+      "Unity"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "UI, input, accessibility & localization",
+    "reusable_kind": "library-or-tool",
+    "language": "C#",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-14T17:54:20Z"
+  },
+  {
+    "repo": "bend-n/godot-actions",
+    "url": "https://github.com/bend-n/godot-actions",
+    "description": "GitHub Actions for exporting Godot projects.",
+    "stars": 38,
+    "engines": [
+      "Godot"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Build, CI & release",
+    "reusable_kind": "library-or-tool",
+    "language": null,
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": null
+  },
+  {
+    "repo": "BeRo1985/kraft",
+    "url": "https://github.com/BeRo1985/kraft",
+    "description": "Kraft Physics Engine is an open source Object Pascal physics engine library that can be used in 3D games.",
+    "stars": 132,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "3D"
+    ],
+    "workflow": "Gameplay systems, physics & AI",
+    "reusable_kind": "library-or-tool",
+    "language": "Pascal",
+    "license": null,
+    "archived": false,
+    "pushed_at": "2026-11-17T04:07:25Z"
+  },
+  {
+    "repo": "bevyengine/bevy",
+    "url": "https://github.com/bevyengine/bevy",
+    "description": "A refreshingly simple data-driven game engine built in Rust",
+    "stars": 49856,
+    "engines": [
+      "Bevy"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Engines & frameworks",
+    "reusable_kind": "engine/framework",
+    "language": "Rust",
+    "license": "Apache-2.0",
+    "archived": false,
+    "pushed_at": "2026-11-19T03:00:20Z"
+  },
+  {
+    "repo": "Bingeljell/image-to-3dlab",
+    "url": "https://github.com/Bingeljell/image-to-3dlab",
+    "description": "AssetFurnace: the most complete open-source image-to-3D pipeline (Oct 2026). Prompt or picture → textured, rigged, animated game character, locally on Apple Silicon or NVIDIA.",
+    "stars": 1215,
+    "engines": [
+      "Godot",
+      "Unity"
+    ],
+    "game_types": [
+      "3D"
+    ],
+    "workflow": "Art, sprites, animation & 3D",
+    "reusable_kind": "content-tool",
+    "language": "Python",
+    "license": "Apache-2.0",
+    "archived": false,
+    "pushed_at": "2026-11-18T13:33:04Z"
+  },
+  {
+    "repo": "bitwes/Gut",
+    "url": "https://github.com/bitwes/Gut",
+    "description": "Godot Unit Test. Unit testing tool for Godot Game Engine.",
+    "stars": 2786,
+    "engines": [
+      "Godot"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Testing & QA",
+    "reusable_kind": "library-or-tool",
+    "language": "GDScript",
+    "license": null,
+    "archived": false,
+    "pushed_at": "2026-08-18T14:28:41Z"
+  },
+  {
+    "repo": "bkaradzic/bgfx",
+    "url": "https://github.com/bkaradzic/bgfx",
+    "description": "Cross-platform, graphics API agnostic, \"Bring Your Own Engine/Framework\" style rendering library.",
+    "stars": 17654,
+    "engines": [
+      "SDL/SFML"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Rendering, shaders & visual effects",
+    "reusable_kind": "content-tool",
+    "language": "C++",
+    "license": "BSD-2-Clause",
+    "archived": false,
+    "pushed_at": "2026-11-19T07:25:44Z"
+  },
+  {
+    "repo": "bladecoder/bladecoder-adventure-engine",
+    "url": "https://github.com/bladecoder/bladecoder-adventure-engine",
+    "description": "Classic point and click adventure game engine and editor",
+    "stars": 646,
+    "engines": [
+      "Other engines"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Engines & frameworks",
+    "reusable_kind": "engine/framework",
+    "language": "Java",
+    "license": "Apache-2.0",
+    "archived": false,
+    "pushed_at": "2026-11-17T09:13:39Z"
+  },
+  {
+    "repo": "blender/blender",
+    "url": "https://github.com/blender/blender",
+    "description": "Official mirror of Blender",
+    "stars": 22209,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "3D"
+    ],
+    "workflow": "Art, sprites, animation & 3D",
+    "reusable_kind": "content-tool",
+    "language": "C++",
+    "license": "NOASSERTION",
+    "archived": false,
+    "pushed_at": "2026-11-19T08:59:52Z"
+  },
+  {
+    "repo": "boardgameio/boardgame.io",
+    "url": "https://github.com/boardgameio/boardgame.io",
+    "description": "State Management and Multiplayer Networking for Turn-Based Games",
+    "stars": 12497,
+    "engines": [
+      "Other engines"
+    ],
+    "game_types": [
+      "Puzzle & board games",
+      "Multiplayer & online"
+    ],
+    "workflow": "Engines & frameworks",
+    "reusable_kind": "engine/framework",
+    "language": "TypeScript",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-10-30T14:58:52Z"
+  },
+  {
+    "repo": "BobbyAnguelov/Esoterica",
+    "url": "https://github.com/BobbyAnguelov/Esoterica",
+    "description": "Esoterica Engine",
+    "stars": 1883,
+    "engines": [
+      "Other engines"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Engines & frameworks",
+    "reusable_kind": "engine/framework",
+    "language": "C++",
+    "license": "NOASSERTION",
+    "archived": false,
+    "pushed_at": "2026-10-30T17:42:58Z"
+  },
+  {
+    "repo": "bombomby/optick",
+    "url": "https://github.com/bombomby/optick",
+    "description": "C++ Profiler For Games",
+    "stars": 3163,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Debugging & profiling",
+    "reusable_kind": "library-or-tool",
+    "language": "C#",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2024-05-25T15:51:48Z"
+  },
+  {
+    "repo": "bryanedds/Nu",
+    "url": "https://github.com/bryanedds/Nu",
+    "description": "Repository hosting the functional Nu Game Engine and related projects.",
+    "stars": 1378,
+    "engines": [
+      "Other engines"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Engines & frameworks",
+    "reusable_kind": "engine/framework",
+    "language": "F#",
+    "license": "NOASSERTION",
+    "archived": false,
+    "pushed_at": "2026-11-19T08:12:28Z"
+  },
+  {
+    "repo": "buildalon/activate-unity-license",
+    "url": "https://github.com/buildalon/activate-unity-license",
+    "description": "A GitHub Action to activate a Unity Game Engine license for CI/CD workflows",
+    "stars": 14,
+    "engines": [
+      "Unity"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Build, CI & release",
+    "reusable_kind": "library-or-tool",
+    "language": "TypeScript",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-14T02:51:21Z"
+  },
+  {
+    "repo": "buildalon/unity-setup",
+    "url": "https://github.com/buildalon/unity-setup",
+    "description": "A GitHub Action for setting up the Unity Game Engine for CI/CD workflows",
+    "stars": 31,
+    "engines": [
+      "Unity"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Build, CI & release",
+    "reusable_kind": "library-or-tool",
+    "language": "TypeScript",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-09T20:28:26Z"
+  },
+  {
+    "repo": "bulletphysics/bullet3",
+    "url": "https://github.com/bulletphysics/bullet3",
+    "description": "Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.",
+    "stars": 14876,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "VR & XR"
+    ],
+    "workflow": "Gameplay systems, physics & AI",
+    "reusable_kind": "library-or-tool",
+    "language": "C++",
+    "license": "NOASSERTION",
+    "archived": false,
+    "pushed_at": "2026-10-09T21:51:41Z"
+  },
+  {
+    "repo": "Cammin/LDtkToUnity",
+    "url": "https://github.com/Cammin/LDtkToUnity",
+    "description": "Unity importer for the LDtk level editor",
+    "stars": 428,
+    "engines": [
+      "Unity"
+    ],
+    "game_types": [
+      "2D"
+    ],
+    "workflow": "Levels & world building",
+    "reusable_kind": "content-tool",
+    "language": "C#",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-17T18:11:22Z"
+  },
+  {
+    "repo": "cegui/cegui",
+    "url": "https://github.com/cegui/cegui",
+    "description": "Crazy Eddie's GUI library is a versatile, fast, adjustable, multi-platform, C++ library for creating graphical user interfaces for games and rendering applications",
+    "stars": 584,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "UI, input, accessibility & localization",
+    "reusable_kind": "library-or-tool",
+    "language": "C++",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-02T09:42:41Z"
+  },
+  {
+    "repo": "cfnptr/garden",
+    "url": "https://github.com/cfnptr/garden",
+    "description": "An open source, cross platform game engine written in C++ with Vulkan API rendering backend",
+    "stars": 37,
+    "engines": [
+      "Other engines"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Engines & frameworks",
+    "reusable_kind": "engine/framework",
+    "language": "C++",
+    "license": "Apache-2.0",
+    "archived": false,
+    "pushed_at": "2026-11-14T20:03:08Z"
+  },
+  {
+    "repo": "chickensoft-games/GodotGame",
+    "url": "https://github.com/chickensoft-games/GodotGame",
+    "description": "C# game template for Godot 4 with debug launch configurations, testing (locally and on CI/CD), code coverage, dependency update checks, and spell check working out-of-the-box!",
+    "stars": 431,
+    "engines": [
+      "Godot"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Project foundations & templates",
+    "reusable_kind": "starter-template",
+    "language": "C#",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-11T17:00:54Z"
+  },
+  {
+    "repo": "chickensoft-games/GoDotTest",
+    "url": "https://github.com/chickensoft-games/GoDotTest",
+    "description": "C# test runner for Godot. Run tests from the command line, collect code coverage, and debug tests.",
+    "stars": 158,
+    "engines": [
+      "Godot"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Testing & QA",
+    "reusable_kind": "library-or-tool",
+    "language": "C#",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-11T22:09:56Z"
+  },
+  {
+    "repo": "chickensoft-games/GodotTestDriver",
+    "url": "https://github.com/chickensoft-games/GodotTestDriver",
+    "description": "Easy integration testing for Godot with simulated input, node drivers, and fixtures.",
+    "stars": 63,
+    "engines": [
+      "Godot"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Testing & QA",
+    "reusable_kind": "library-or-tool",
+    "language": "C#",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-11T14:41:30Z"
+  },
+  {
+    "repo": "chr15m/jsfxr",
+    "url": "https://github.com/chr15m/jsfxr",
+    "description": "JavaScript sound effects generator.",
+    "stars": 467,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Audio & music",
+    "reusable_kind": "content-tool",
+    "language": "JavaScript",
+    "license": "Unlicense",
+    "archived": false,
+    "pushed_at": "2026-05-05T09:58:09Z"
+  },
+  {
+    "repo": "Circular-Studios/Dash",
+    "url": "https://github.com/Circular-Studios/Dash",
+    "description": "A free and open 3D game engine written in D.",
+    "stars": 425,
+    "engines": [
+      "Other engines"
+    ],
+    "game_types": [
+      "3D"
+    ],
+    "workflow": "Engines & frameworks",
+    "reusable_kind": "engine/framework",
+    "language": "D",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2020-12-18T22:24:39Z"
+  },
+  {
+    "repo": "CM2Walki/steampipe",
+    "url": "https://github.com/CM2Walki/steampipe",
+    "description": "Dockerfile for automated build of a SteamCMD + Steamworks SDK Tools installation: https://hub.docker.com/r/cm2network/steampipe/",
+    "stars": 20,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Publishing & monetization",
+    "reusable_kind": "library-or-tool",
+    "language": "Dockerfile",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2025-04-06T13:00:13Z"
+  },
+  {
+    "repo": "cocoatoucher/Glide",
+    "url": "https://github.com/cocoatoucher/Glide",
+    "description": "Game engine for making 2d games on iOS, macOS and tvOS, with practical examples and tutorials",
+    "stars": 507,
+    "engines": [
+      "Glide"
+    ],
+    "game_types": [
+      "2D",
+      "Platformer & metroidvania"
+    ],
+    "workflow": "Engines & frameworks",
+    "reusable_kind": "engine/framework",
+    "language": "Swift",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2024-12-02T11:51:18Z"
+  },
+  {
+    "repo": "cocos/cocos-engine",
+    "url": "https://github.com/cocos/cocos-engine",
+    "description": "Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine.",
+    "stars": 9935,
+    "engines": [
+      "Cocos"
+    ],
+    "game_types": [
+      "3D"
+    ],
+    "workflow": "Engines & frameworks",
+    "reusable_kind": "engine/framework",
+    "language": "C++",
+    "license": "NOASSERTION",
+    "archived": false,
+    "pushed_at": "2026-10-28T07:24:48Z"
+  },
+  {
+    "repo": "codereader/DarkRadiant",
+    "url": "https://github.com/codereader/DarkRadiant",
+    "description": "DarkRadiant is the map editor for The Dark Mod and other idTech4/Doom3-based games",
+    "stars": 183,
+    "engines": [
+      "Quake/id Tech"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Levels & world building",
+    "reusable_kind": "content-tool",
+    "language": "C++",
+    "license": "NOASSERTION",
+    "archived": false,
+    "pushed_at": "2026-04-18T04:12:07Z"
+  },
+  {
+    "repo": "CodyJasonBennett/four",
+    "url": "https://github.com/CodyJasonBennett/four",
+    "description": "A tiny Three.js-style library for WebGL, WebGPU, and GPU compute.",
+    "stars": 370,
+    "engines": [
+      "Three.js"
+    ],
+    "game_types": [
+      "3D"
+    ],
+    "workflow": "Rendering, shaders & visual effects",
+    "reusable_kind": "content-tool",
+    "language": "TypeScript",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-10-28T12:55:56Z"
+  },
+  {
+    "repo": "colyseus/colyseus",
+    "url": "https://github.com/colyseus/colyseus",
+    "description": "⚔ Multiplayer Framework for Node.js",
+    "stars": 7561,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Multiplayer & online"
+    ],
+    "workflow": "Networking & multiplayer",
+    "reusable_kind": "library-or-tool",
+    "language": "TypeScript",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-18T20:06:29Z"
+  },
+  {
+    "repo": "CreateJS/SoundJS",
+    "url": "https://github.com/CreateJS/SoundJS",
+    "description": "A Javascript library for working with Audio. It provides a consistent API for loading and playing audio on different browsers and devices.",
+    "stars": 4598,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Audio & music",
+    "reusable_kind": "content-tool",
+    "language": "JavaScript",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2021-03-27T15:13:45Z"
+  },
+  {
+    "repo": "Cysharp/RuntimeUnitTestToolkit",
+    "url": "https://github.com/Cysharp/RuntimeUnitTestToolkit",
+    "description": "CLI and GUI frontend for running Unity tests on multiple platforms.",
+    "stars": 327,
+    "engines": [
+      "Unity"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Testing & QA",
+    "reusable_kind": "library-or-tool",
+    "language": "C#",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": null
+  },
+  {
+    "repo": "DaedalicEntertainment/ue4-test-automation",
+    "url": "https://github.com/DaedalicEntertainment/ue4-test-automation",
+    "description": "Facilitates setting up integration test suits with Unreal Engine 4 Gauntlet.",
+    "stars": 240,
+    "engines": [
+      "Unreal Engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Testing & QA",
+    "reusable_kind": "library-or-tool",
+    "language": "C++",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2022-08-18T11:26:16Z"
+  },
+  {
+    "repo": "DanielChappuis/reactphysics3d",
+    "url": "https://github.com/DanielChappuis/reactphysics3d",
+    "description": "Open source C++ physics engine library in 3D",
+    "stars": 1776,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "3D"
+    ],
+    "workflow": "Gameplay systems, physics & AI",
+    "reusable_kind": "library-or-tool",
+    "language": "C++",
+    "license": "Zlib",
+    "archived": false,
+    "pushed_at": "2025-03-28T06:33:07Z"
+  },
+  {
+    "repo": "daybrush/scenejs",
+    "url": "https://github.com/daybrush/scenejs",
+    "description": "🎬 Scene.js is JavaScript & CSS timeline-based animation library",
+    "stars": 2788,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Art, sprites, animation & 3D",
+    "reusable_kind": "content-tool",
+    "language": "TypeScript",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2023-06-19T22:39:08Z"
+  },
+  {
+    "repo": "deepnight/ldtk",
+    "url": "https://github.com/deepnight/ldtk",
+    "description": "Modern, lightweight and efficient 2D level editor",
+    "stars": 4992,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "2D"
+    ],
+    "workflow": "Levels & world building",
+    "reusable_kind": "content-tool",
+    "language": "Haxe",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-15T23:38:49Z"
+  },
+  {
+    "repo": "defold/defold",
+    "url": "https://github.com/defold/defold",
+    "description": "Defold is a completely free to use game engine for development of desktop, console, mobile and web games.",
+    "stars": 6470,
+    "engines": [
+      "Defold"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Engines & frameworks",
+    "reusable_kind": "engine/framework",
+    "language": "C++",
+    "license": "NOASSERTION",
+    "archived": false,
+    "pushed_at": "2026-11-19T08:58:23Z"
+  },
+  {
+    "repo": "dfranx/SHADERed",
+    "url": "https://github.com/dfranx/SHADERed",
+    "description": "Lightweight, cross-platform & full-featured shader IDE",
+    "stars": 4814,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Rendering, shaders & visual effects",
+    "reusable_kind": "content-tool",
+    "language": "C++",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2023-09-22T16:07:30Z"
+  },
+  {
+    "repo": "dialogic-godot/dialogic",
+    "url": "https://github.com/dialogic-godot/dialogic",
+    "description": "💬 Create Dialogs, Visual Novels, RPGs, and manage Characters with Godot to create your Game!",
+    "stars": 6181,
+    "engines": [
+      "Godot"
+    ],
+    "game_types": [
+      "Narrative & visual novel"
+    ],
+    "workflow": "Game design & planning",
+    "reusable_kind": "library-or-tool",
+    "language": "GDScript",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-07T13:12:41Z"
+  },
+  {
+    "repo": "DiligentGraphics/DiligentEngine",
+    "url": "https://github.com/DiligentGraphics/DiligentEngine",
+    "description": "A modern cross-platform low-level graphics library and rendering framework",
+    "stars": 4519,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "3D"
+    ],
+    "workflow": "Rendering, shaders & visual effects",
+    "reusable_kind": "content-tool",
+    "language": "Batchfile",
+    "license": "Apache-2.0",
+    "archived": false,
+    "pushed_at": "2026-11-19T00:03:41Z"
+  },
+  {
+    "repo": "Dn-Programming-Core-Management/Dn-FamiTracker",
+    "url": "https://github.com/Dn-Programming-Core-Management/Dn-FamiTracker",
+    "description": "modifications and improvements for 0CC-FamiTracker (based on j0CC-FamiTracker 0.6.3)",
+    "stars": 540,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Audio & music",
+    "reusable_kind": "content-tool",
+    "language": "C",
+    "license": "NOASSERTION",
+    "archived": false,
+    "pushed_at": "2026-11-03T08:58:23Z"
+  },
+  {
+    "repo": "donislawdev/BeanNetworkTester",
+    "url": "https://github.com/donislawdev/BeanNetworkTester",
+    "description": "Simulate bad network conditions on Windows/Linux - latency, burst packet loss, jitter, bandwidth limits, drops - to test how your app behaves on a poor connection. GUI + CLI, comes with network tools",
+    "stars": 77,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Networking & multiplayer",
+    "reusable_kind": "library-or-tool",
+    "language": "Python",
+    "license": "GPL-3.0",
+    "archived": false,
+    "pushed_at": "2026-11-14T18:21:11Z"
+  },
+  {
+    "repo": "Doraku/DefaultEcs",
+    "url": "https://github.com/Doraku/DefaultEcs",
+    "description": "Entity Component System framework aiming for syntax and usage simplicity with maximum performance for game development.",
+    "stars": 765,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Architecture, ECS & scripting",
+    "reusable_kind": "library-or-tool",
+    "language": "C#",
+    "license": "MIT-0",
+    "archived": false,
+    "pushed_at": "2024-03-01T16:21:19Z"
+  },
+  {
+    "repo": "doriaxengine/doriax",
+    "url": "https://github.com/doriaxengine/doriax",
+    "description": "Game engine for 2D and 3D projects with entity component system (ECS) and data-oriented design",
+    "stars": 932,
+    "engines": [
+      "Other engines"
+    ],
+    "game_types": [
+      "2D",
+      "3D"
+    ],
+    "workflow": "Engines & frameworks",
+    "reusable_kind": "engine/framework",
+    "language": "C++",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-19T01:06:22Z"
+  },
+  {
+    "repo": "Dovyski/flixel-studio",
+    "url": "https://github.com/Dovyski/flixel-studio",
+    "description": "Embeddable in-game editor for HaxeFlixel.",
+    "stars": 111,
+    "engines": [
+      "HaxeFlixel"
+    ],
+    "game_types": [
+      "2D"
+    ],
+    "workflow": "Debugging & profiling",
+    "reusable_kind": "library-or-tool",
+    "language": "Haxe",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": null
+  },
+  {
+    "repo": "EpicGames/BlenderTools",
+    "url": "https://github.com/EpicGames/BlenderTools",
+    "description": "Blender addons that improve the game development workflow between Blender and Unreal.",
+    "stars": 3415,
+    "engines": [
+      "Unreal Engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Asset pipelines & formats",
+    "reusable_kind": "content-tool",
+    "language": "Python",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-09-09T11:07:47Z"
+  },
+  {
+    "repo": "EQMG/Acid",
+    "url": "https://github.com/EQMG/Acid",
+    "description": "A high speed C++17 Vulkan game engine",
+    "stars": 2029,
+    "engines": [
+      "Acid"
+    ],
+    "game_types": [
+      "3D"
+    ],
+    "workflow": "Engines & frameworks",
+    "reusable_kind": "engine/framework",
+    "language": "C++",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2023-09-21T04:41:02Z"
+  },
+  {
+    "repo": "erincatto/box2d",
+    "url": "https://github.com/erincatto/box2d",
+    "description": "Box2D is a 2D physics engine for games",
+    "stars": 10503,
+    "engines": [
+      "Other engines"
+    ],
+    "game_types": [
+      "2D"
+    ],
+    "workflow": "Engines & frameworks",
+    "reusable_kind": "engine/framework",
+    "language": "C",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-17T04:46:03Z"
+  },
+  {
+    "repo": "facebookarchive/RakNet",
+    "url": "https://github.com/facebookarchive/RakNet",
+    "description": "RakNet is a cross platform, open source, C++ networking engine for game programmers.",
+    "stars": 3424,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Multiplayer & online"
+    ],
+    "workflow": "Networking & multiplayer",
+    "reusable_kind": "library-or-tool",
+    "language": "HTML",
+    "license": "NOASSERTION",
+    "archived": true,
+    "pushed_at": "2021-12-14T21:15:44Z"
+  },
+  {
+    "repo": "Facepunch/Facepunch.Steamworks",
+    "url": "https://github.com/Facepunch/Facepunch.Steamworks",
+    "description": "Another fucking c# Steamworks implementation",
+    "stars": 3795,
+    "engines": [
+      "Unity"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Publishing & monetization",
+    "reusable_kind": "library-or-tool",
+    "language": "C#",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-10-13T08:06:39Z"
+  },
+  {
+    "repo": "faiface/beep",
+    "url": "https://github.com/faiface/beep",
+    "description": "A little package that brings sound to any Go application. Suitable for playback and audio-processing.",
+    "stars": 2224,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Audio & music",
+    "reusable_kind": "content-tool",
+    "language": "Go",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2024-03-19T19:50:56Z"
+  },
+  {
+    "repo": "firebelley/godot-export",
+    "url": "https://github.com/firebelley/godot-export",
+    "description": "Automatically exports your Godot games.",
+    "stars": 655,
+    "engines": [
+      "Godot"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Build, CI & release",
+    "reusable_kind": "library-or-tool",
+    "language": "TypeScript",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-05-28T17:31:08Z"
+  },
+  {
+    "repo": "FirstGearGames/FishNet",
+    "url": "https://github.com/FirstGearGames/FishNet",
+    "description": "FishNet: Unity Networking Evolved.",
+    "stars": 2093,
+    "engines": [
+      "Unity"
+    ],
+    "game_types": [
+      "Multiplayer & online"
+    ],
+    "workflow": "Networking & multiplayer",
+    "reusable_kind": "library-or-tool",
+    "language": "C#",
+    "license": "NOASSERTION",
+    "archived": false,
+    "pushed_at": "2026-10-18T07:41:38Z"
+  },
+  {
+    "repo": "flame-engine/flame",
+    "url": "https://github.com/flame-engine/flame",
+    "description": "A Flutter based game engine.",
+    "stars": 10822,
+    "engines": [
+      "Flame"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Engines & frameworks",
+    "reusable_kind": "engine/framework",
+    "language": "Dart",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-18T20:23:49Z"
+  },
+  {
+    "repo": "FlaxEngine/FlaxEngine",
+    "url": "https://github.com/FlaxEngine/FlaxEngine",
+    "description": "Flax Engine – multi-platform 3D game engine",
+    "stars": 7125,
+    "engines": [
+      "Other engines"
+    ],
+    "game_types": [
+      "3D"
+    ],
+    "workflow": "Engines & frameworks",
+    "reusable_kind": "engine/framework",
+    "language": "C++",
+    "license": "NOASSERTION",
+    "archived": false,
+    "pushed_at": "2026-11-18T23:27:33Z"
+  },
+  {
+    "repo": "FosterFramework/Foster",
+    "url": "https://github.com/FosterFramework/Foster",
+    "description": "A small C# game framework",
+    "stars": 897,
+    "engines": [
+      "Other engines"
+    ],
+    "game_types": [
+      "2D"
+    ],
+    "workflow": "Engines & frameworks",
+    "reusable_kind": "engine/framework",
+    "language": "C#",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-18T18:20:01Z"
+  },
+  {
+    "repo": "friflo/Friflo.Engine.ECS",
+    "url": "https://github.com/friflo/Friflo.Engine.ECS",
+    "description": "High-performance C# ECS",
+    "stars": 818,
+    "engines": [
+      "Godot",
+      "Unity",
+      "MonoGame",
+      "Raylib"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Architecture, ECS & scripting",
+    "reusable_kind": "library-or-tool",
+    "language": "C#",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-10-31T13:23:52Z"
+  },
+  {
+    "repo": "fubark/cyber",
+    "url": "https://github.com/fubark/cyber",
+    "description": "Fast and concurrent scripting.",
+    "stars": 1520,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Architecture, ECS & scripting",
+    "reusable_kind": "library-or-tool",
+    "language": "Zig",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2025-12-21T12:52:19Z"
+  },
+  {
+    "repo": "FyroxEngine/Fyrox",
+    "url": "https://github.com/FyroxEngine/Fyrox",
+    "description": "3D and 2D game engine written in Rust",
+    "stars": 9686,
+    "engines": [
+      "Other engines"
+    ],
+    "game_types": [
+      "2D",
+      "3D"
+    ],
+    "workflow": "Engines & frameworks",
+    "reusable_kind": "engine/framework",
+    "language": "Rust",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-19T06:27:14Z"
+  },
+  {
+    "repo": "galacean/engine",
+    "url": "https://github.com/galacean/engine",
+    "description": "A typescript interactive engine, support 2D, 3D, animation, physics, built on WebGL and glTF.",
+    "stars": 5921,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "2D",
+      "3D"
+    ],
+    "workflow": "Gameplay systems, physics & AI",
+    "reusable_kind": "library-or-tool",
+    "language": "TypeScript",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-19T08:59:04Z"
+  },
+  {
+    "repo": "galaxykate/tracery",
+    "url": "https://github.com/galaxykate/tracery",
+    "description": "Tracery: a story-grammar generation library for javascript",
+    "stars": 2222,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Game design & planning",
+    "reusable_kind": "library-or-tool",
+    "language": "JavaScript",
+    "license": "Apache-2.0",
+    "archived": false,
+    "pushed_at": "2024-11-03T16:46:02Z"
+  },
+  {
+    "repo": "game-ci/docker",
+    "url": "https://github.com/game-ci/docker",
+    "description": "Series of CI-specialised docker images for Unity.",
+    "stars": 473,
+    "engines": [
+      "Unity"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Build, CI & release",
+    "reusable_kind": "library-or-tool",
+    "language": "Dockerfile",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-18T22:48:38Z"
+  },
+  {
+    "repo": "game-ci/steam-deploy",
+    "url": "https://github.com/game-ci/steam-deploy",
+    "description": "GitHub Action for deploying a game to Steam.",
+    "stars": 349,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Publishing & monetization",
+    "reusable_kind": "library-or-tool",
+    "language": "TypeScript",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": null
+  },
+  {
+    "repo": "game-ci/unity-actions",
+    "url": "https://github.com/game-ci/unity-actions",
+    "description": "Github actions for testing and building Unity projects",
+    "stars": 1098,
+    "engines": [
+      "Unity"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Build, CI & release",
+    "reusable_kind": "library-or-tool",
+    "language": "Mathematica",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2023-03-04T23:25:10Z"
+  },
+  {
+    "repo": "game-ci/unity-builder",
+    "url": "https://github.com/game-ci/unity-builder",
+    "description": "Build Unity projects for different platforms",
+    "stars": 1114,
+    "engines": [
+      "Unity"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Build, CI & release",
+    "reusable_kind": "library-or-tool",
+    "language": "TypeScript",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-15T19:31:29Z"
+  },
+  {
+    "repo": "game-ci/unity-license-activate",
+    "url": "https://github.com/game-ci/unity-license-activate",
+    "description": "Activate Unity license through CLI",
+    "stars": 50,
+    "engines": [
+      "Unity"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Build, CI & release",
+    "reusable_kind": "library-or-tool",
+    "language": "JavaScript",
+    "license": "NOASSERTION",
+    "archived": false,
+    "pushed_at": "2026-11-18T17:36:29Z"
+  },
+  {
+    "repo": "game-ci/unity-orb",
+    "url": "https://github.com/game-ci/unity-orb",
+    "description": "Build and test Unity projects for several platforms using CircleCI.",
+    "stars": 11,
+    "engines": [
+      "Unity"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Build, CI & release",
+    "reusable_kind": "library-or-tool",
+    "language": "Shell",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-18T22:41:24Z"
+  },
+  {
+    "repo": "game-ci/unity-test-runner",
+    "url": "https://github.com/game-ci/unity-test-runner",
+    "description": "Run tests for any Unity project",
+    "stars": 271,
+    "engines": [
+      "Unity"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Testing & QA",
+    "reusable_kind": "library-or-tool",
+    "language": "TypeScript",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-15T15:39:58Z"
+  },
+  {
+    "repo": "GameAnalytics/GA-SDK-GODOT",
+    "url": "https://github.com/GameAnalytics/GA-SDK-GODOT",
+    "description": "Official GameAnalytics Godot SDK repository",
+    "stars": 65,
+    "engines": [
+      "Godot"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Backend, persistence & live operations",
+    "reusable_kind": "library-or-tool",
+    "language": "Objective-C",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-10-21T11:03:09Z"
+  },
+  {
+    "repo": "GameAnalytics/GA-SDK-JAVASCRIPT",
+    "url": "https://github.com/GameAnalytics/GA-SDK-JAVASCRIPT",
+    "description": "Official repository for GameAnalytics JavaScript SDK",
+    "stars": 24,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Backend, persistence & live operations",
+    "reusable_kind": "library-or-tool",
+    "language": "TypeScript",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-16T12:57:38Z"
+  },
+  {
+    "repo": "GameAnalytics/GA-SDK-UNITY",
+    "url": "https://github.com/GameAnalytics/GA-SDK-UNITY",
+    "description": "The GameAnalytics SDK for tracking events in Unity.",
+    "stars": 147,
+    "engines": [
+      "Unity"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Backend, persistence & live operations",
+    "reusable_kind": "library-or-tool",
+    "language": "C#",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-10-27T10:13:39Z"
+  },
+  {
+    "repo": "GameAnalytics/GA-SDK-UNREAL",
+    "url": "https://github.com/GameAnalytics/GA-SDK-UNREAL",
+    "description": "A repository containing the GameAnalytics Unreal Engine 5 Plugin including documentation.",
+    "stars": 60,
+    "engines": [
+      "Unreal Engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Backend, persistence & live operations",
+    "reusable_kind": "library-or-tool",
+    "language": "C++",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-12T09:32:15Z"
+  },
+  {
+    "repo": "GameTechDev/PresentMon",
+    "url": "https://github.com/GameTechDev/PresentMon",
+    "description": "Capture and analyze the high-level performance characteristics of graphics applications on Windows.",
+    "stars": 2682,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Debugging & profiling",
+    "reusable_kind": "library-or-tool",
+    "language": "C++",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-18T23:02:48Z"
+  },
+  {
+    "repo": "Garux/netradiant-custom",
+    "url": "https://github.com/Garux/netradiant-custom",
+    "description": "The open-source, cross-platform level editor for id Tech based games.",
+    "stars": 472,
+    "engines": [
+      "Quake/id Tech"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Levels & world building",
+    "reusable_kind": "content-tool",
+    "language": "C++",
+    "license": "NOASSERTION",
+    "archived": false,
+    "pushed_at": "2026-09-01T15:18:21Z"
+  },
+  {
+    "repo": "GasimoCodes/Subtitler",
+    "url": "https://github.com/GasimoCodes/Subtitler",
+    "description": "A simple subtitle tool for Unity3D inspired by Source Engine Closed Captions",
+    "stars": 11,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "UI, input, accessibility & localization",
+    "reusable_kind": "library-or-tool",
+    "language": "HTML",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-02-09T22:00:50Z"
+  },
+  {
+    "repo": "genaray/Arch",
+    "url": "https://github.com/genaray/Arch",
+    "description": "A high-performance C# based Archetype & Chunks Entity Component System (ECS) with optional multithreading.",
+    "stars": 1883,
+    "engines": [
+      "Godot",
+      "Unity",
+      "MonoGame",
+      "Stride"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Architecture, ECS & scripting",
+    "reusable_kind": "library-or-tool",
+    "language": "C#",
+    "license": "Apache-2.0",
+    "archived": false,
+    "pushed_at": "2026-11-09T13:06:13Z"
+  },
+  {
+    "repo": "Genbox/VelcroPhysics",
+    "url": "https://github.com/Genbox/VelcroPhysics",
+    "description": "High performance 2D collision detection system with realistic physics responses.",
+    "stars": 749,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "2D"
+    ],
+    "workflow": "Gameplay systems, physics & AI",
+    "reusable_kind": "library-or-tool",
+    "language": "C#",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2021-08-01T16:38:16Z"
+  },
+  {
+    "repo": "gfx-rs/wgpu",
+    "url": "https://github.com/gfx-rs/wgpu",
+    "description": "A cross-platform, safe, pure-Rust graphics API.",
+    "stars": 18580,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Rendering, shaders & visual effects",
+    "reusable_kind": "content-tool",
+    "language": "Rust",
+    "license": "Apache-2.0",
+    "archived": false,
+    "pushed_at": "2026-11-19T06:42:21Z"
+  },
+  {
+    "repo": "Glade-tool/glade-mcp",
+    "url": "https://github.com/Glade-tool/glade-mcp",
+    "description": "Connect AI coding clients to Godot and Unity editors with editor-aware tools and project context.",
+    "stars": 205,
+    "engines": [
+      "Godot",
+      "Unity"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Architecture, ECS & scripting",
+    "reusable_kind": "library-or-tool",
+    "language": "C#",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": null
+  },
+  {
+    "repo": "godot-extended-libraries/godot-debug-menu",
+    "url": "https://github.com/godot-extended-libraries/godot-debug-menu",
+    "description": "Display in-game FPS/performance/hardware metrics in a Godot 4.x project",
+    "stars": 673,
+    "engines": [
+      "Godot"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Debugging & profiling",
+    "reusable_kind": "library-or-tool",
+    "language": "GDScript",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2025-11-19T14:13:32Z"
+  },
+  {
+    "repo": "godot-gdunit-labs/gdUnit4",
+    "url": "https://github.com/godot-gdunit-labs/gdUnit4",
+    "description": "Embedded unit testing framework for Godot 4 supporting GDScript and C#. Features test-driven development, embedded test inspector, extensive assertions, mocking, scene testing.",
+    "stars": 1308,
+    "engines": [
+      "Godot"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Testing & QA",
+    "reusable_kind": "library-or-tool",
+    "language": "GDScript",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-17T17:17:30Z"
+  },
+  {
+    "repo": "godot-gdunit-labs/gdUnit4-action",
+    "url": "https://github.com/godot-gdunit-labs/gdUnit4-action",
+    "description": "🎮 Official GdUnit4 GitHub Action for automated testing in Godot 4.x projects. Supports GDScript & C#, test reporting, and CI/CD pipeline integration. Built for game developers to streamline their testing workflow.",
+    "stars": 63,
+    "engines": [
+      "Godot"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Build, CI & release",
+    "reusable_kind": "library-or-tool",
+    "language": "JavaScript",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-17T16:42:03Z"
+  },
+  {
+    "repo": "godotengine/godot",
+    "url": "https://github.com/godotengine/godot",
+    "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "stars": 120397,
+    "engines": [
+      "Godot"
+    ],
+    "game_types": [
+      "2D",
+      "3D"
+    ],
+    "workflow": "Engines & frameworks",
+    "reusable_kind": "engine/framework",
+    "language": "C++",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-18T12:23:32Z"
+  },
+  {
+    "repo": "GodotSteam/GodotSteam",
+    "url": "https://github.com/GodotSteam/GodotSteam",
+    "description": "An ecosystem of tools for Godot Engine and Valve's Steam. For Linux, Mac, and Windows.",
+    "stars": 3772,
+    "engines": [
+      "Godot"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Publishing & monetization",
+    "reusable_kind": "library-or-tool",
+    "language": null,
+    "license": null,
+    "archived": true,
+    "pushed_at": "2026-11-08T06:42:48Z"
+  },
+  {
+    "repo": "GodotSteam/MultiplayerPeer",
+    "url": "https://github.com/GodotSteam/MultiplayerPeer",
+    "description": "An ecosystem of tools for Godot Engine and Valve's Steam. For the Windows, Linux, and Mac platforms.",
+    "stars": 131,
+    "engines": [
+      "Godot"
+    ],
+    "game_types": [
+      "Multiplayer & online"
+    ],
+    "workflow": "Networking & multiplayer",
+    "reusable_kind": "library-or-tool",
+    "language": null,
+    "license": null,
+    "archived": true,
+    "pushed_at": "2025-11-13T18:09:10Z"
+  },
+  {
+    "repo": "goldfire/howler.js",
+    "url": "https://github.com/goldfire/howler.js",
+    "description": "Javascript audio library for the modern web.",
+    "stars": 25451,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Audio & music",
+    "reusable_kind": "content-tool",
+    "language": "JavaScript",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2025-11-23T23:49:01Z"
+  },
+  {
+    "repo": "gongminmin/KlayGE",
+    "url": "https://github.com/gongminmin/KlayGE",
+    "description": "KlayGE is a cross-platform open source game engine with plugin-based architecture.",
+    "stars": 2176,
+    "engines": [
+      "Other engines"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Engines & frameworks",
+    "reusable_kind": "engine/framework",
+    "language": "C++",
+    "license": "GPL-2.0",
+    "archived": false,
+    "pushed_at": "2026-07-17T23:08:59Z"
+  },
+  {
+    "repo": "google/filament",
+    "url": "https://github.com/google/filament",
+    "description": "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, WebGPU, and WebGL2",
+    "stars": 20771,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "3D"
+    ],
+    "workflow": "Rendering, shaders & visual effects",
+    "reusable_kind": "content-tool",
+    "language": "C++",
+    "license": "Apache-2.0",
+    "archived": false,
+    "pushed_at": "2026-11-19T07:20:10Z"
+  },
+  {
+    "repo": "googleforgames/open-match",
+    "url": "https://github.com/googleforgames/open-match",
+    "description": "Flexible, extensible, and scalable video game matchmaking.",
+    "stars": 3428,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Multiplayer & online"
+    ],
+    "workflow": "Backend, persistence & live operations",
+    "reusable_kind": "library-or-tool",
+    "language": "Go",
+    "license": "Apache-2.0",
+    "archived": false,
+    "pushed_at": "2026-07-12T18:15:57Z"
+  },
+  {
+    "repo": "googleforgames/open-match2",
+    "url": "https://github.com/googleforgames/open-match2",
+    "description": "Open Match 2 core application and API/protobuf implementation for building matchmaking services.",
+    "stars": 63,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Multiplayer & online"
+    ],
+    "workflow": "Backend, persistence & live operations",
+    "reusable_kind": "library-or-tool",
+    "language": "Go",
+    "license": "Apache-2.0",
+    "archived": false,
+    "pushed_at": "2026-11-19T03:36:54Z"
+  },
+  {
+    "repo": "googleforgames/open-saves",
+    "url": "https://github.com/googleforgames/open-saves",
+    "description": "Open Saves is a cloud native data store for game development.",
+    "stars": 243,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Backend, persistence & live operations",
+    "reusable_kind": "library-or-tool",
+    "language": "Go",
+    "license": "Apache-2.0",
+    "archived": false,
+    "pushed_at": "2026-10-27T12:14:24Z"
+  },
+  {
+    "repo": "GPUOpen-Tools/radeon_gpu_profiler",
+    "url": "https://github.com/GPUOpen-Tools/radeon_gpu_profiler",
+    "description": "Radeon GPU Profiler (RGP) is a tool from AMD that allows for deep inspection of GPU workloads.",
+    "stars": 455,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Debugging & profiling",
+    "reusable_kind": "library-or-tool",
+    "language": null,
+    "license": null,
+    "archived": false,
+    "pushed_at": "2026-10-06T16:42:25Z"
+  },
+  {
+    "repo": "gpuweb/gpuweb",
+    "url": "https://github.com/gpuweb/gpuweb",
+    "description": "Where the GPU for the Web work happens!",
+    "stars": 5536,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Rendering, shaders & visual effects",
+    "reusable_kind": "content-tool",
+    "language": "Bikeshed",
+    "license": "NOASSERTION",
+    "archived": false,
+    "pushed_at": "2026-11-16T23:50:39Z"
+  },
+  {
+    "repo": "greensock/GSAP",
+    "url": "https://github.com/greensock/GSAP",
+    "description": "GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web",
+    "stars": 30918,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Art, sprites, animation & 3D",
+    "reusable_kind": "content-tool",
+    "language": "JavaScript",
+    "license": null,
+    "archived": false,
+    "pushed_at": "2026-11-04T00:56:41Z"
+  },
+  {
+    "repo": "greysquirr3l/morgan-bevy",
+    "url": "https://github.com/greysquirr3l/morgan-bevy",
+    "description": "Professional 3D level editor for Bevy game engine with procedural generation (BSP, WFC), transform gizmos, asset management, and multi-format export. Built with Tauri + React + Three.js + Rust.",
+    "stars": 10,
+    "engines": [
+      "Bevy"
+    ],
+    "game_types": [
+      "3D"
+    ],
+    "workflow": "Levels & world building",
+    "reusable_kind": "content-tool",
+    "language": "TypeScript",
+    "license": "NOASSERTION",
+    "archived": false,
+    "pushed_at": "2026-11-04T07:19:11Z"
+  },
+  {
+    "repo": "guillaumeblanc/ozz-animation",
+    "url": "https://github.com/guillaumeblanc/ozz-animation",
+    "description": "Open source c++ skeletal animation library and toolset",
+    "stars": 3149,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Art, sprites, animation & 3D",
+    "reusable_kind": "content-tool",
+    "language": "C++",
+    "license": "NOASSERTION",
+    "archived": false,
+    "pushed_at": "2026-08-01T21:34:54Z"
+  },
+  {
+    "repo": "guillaumechereau/goxel",
+    "url": "https://github.com/guillaumechereau/goxel",
+    "description": "Goxel: Free and Open Source 3D Voxel Editor",
+    "stars": 3242,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "3D"
+    ],
+    "workflow": "Art, sprites, animation & 3D",
+    "reusable_kind": "content-tool",
+    "language": "C++",
+    "license": "GPL-3.0",
+    "archived": false,
+    "pushed_at": "2026-07-26T03:18:33Z"
+  },
+  {
+    "repo": "gurkenlabs/litiengine",
+    "url": "https://github.com/gurkenlabs/litiengine",
+    "description": "LITIENGINE 🕹 The Java 2D game engine.",
+    "stars": 843,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "2D"
+    ],
+    "workflow": "Gameplay systems, physics & AI",
+    "reusable_kind": "library-or-tool",
+    "language": "Java",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-08T11:12:46Z"
+  },
+  {
+    "repo": "H2xDev/GodotVMF",
+    "url": "https://github.com/H2xDev/GodotVMF",
+    "description": "Run Valve Hammer (VMF) maps in Godot Engine",
+    "stars": 421,
+    "engines": [
+      "Godot"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Levels & world building",
+    "reusable_kind": "content-tool",
+    "language": "GDScript",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-03T18:10:22Z"
+  },
+  {
+    "repo": "hajimehoshi/ebiten",
+    "url": "https://github.com/hajimehoshi/ebiten",
+    "description": "A dead simple 2D game engine for Go",
+    "stars": 13637,
+    "engines": [
+      "Other engines"
+    ],
+    "game_types": [
+      "2D"
+    ],
+    "workflow": "Engines & frameworks",
+    "reusable_kind": "engine/framework",
+    "language": "Go",
+    "license": "Apache-2.0",
+    "archived": false,
+    "pushed_at": "2026-11-18T13:04:10Z"
+  },
+  {
+    "repo": "Halatnikov/linum-framework",
+    "url": "https://github.com/Halatnikov/linum-framework",
+    "description": "Linum Framework is a Sonic framework for Construct 2 with level editor, online multiplayer and skins",
+    "stars": 11,
+    "engines": [
+      "Construct 2"
+    ],
+    "game_types": [
+      "2D",
+      "Platformer & metroidvania",
+      "Multiplayer & online"
+    ],
+    "workflow": "Levels & world building",
+    "reusable_kind": "content-tool",
+    "language": "JavaScript",
+    "license": null,
+    "archived": false,
+    "pushed_at": "2023-10-06T23:32:44Z"
+  },
+  {
+    "repo": "heroiclabs/hiro",
+    "url": "https://github.com/heroiclabs/hiro",
+    "description": "The server interface for the Hiro game framework.",
+    "stars": 61,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Backend, persistence & live operations",
+    "reusable_kind": "library-or-tool",
+    "language": "Go",
+    "license": "Apache-2.0",
+    "archived": false,
+    "pushed_at": "2026-11-13T11:28:49Z"
+  },
+  {
+    "repo": "heroiclabs/nakama",
+    "url": "https://github.com/heroiclabs/nakama",
+    "description": "Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and social features for games.",
+    "stars": 13750,
+    "engines": [
+      "Godot",
+      "Unity",
+      "Unreal Engine"
+    ],
+    "game_types": [
+      "Multiplayer & online"
+    ],
+    "workflow": "Networking & multiplayer",
+    "reusable_kind": "library-or-tool",
+    "language": "Go",
+    "license": "Apache-2.0",
+    "archived": false,
+    "pushed_at": "2026-11-18T22:45:38Z"
+  },
+  {
+    "repo": "heroiclabs/nakama-godot",
+    "url": "https://github.com/heroiclabs/nakama-godot",
+    "description": "Nakama Godot Client SDK",
+    "stars": 786,
+    "engines": [
+      "Godot"
+    ],
+    "game_types": [
+      "Multiplayer & online"
+    ],
+    "workflow": "Backend, persistence & live operations",
+    "reusable_kind": "library-or-tool",
+    "language": "GDScript",
+    "license": "Apache-2.0",
+    "archived": false,
+    "pushed_at": "2026-11-04T19:13:13Z"
+  },
+  {
+    "repo": "heroiclabs/nakama-js",
+    "url": "https://github.com/heroiclabs/nakama-js",
+    "description": "Nakama JavaScript Client SDK",
+    "stars": 221,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Multiplayer & online"
+    ],
+    "workflow": "Backend, persistence & live operations",
+    "reusable_kind": "library-or-tool",
+    "language": "TypeScript",
+    "license": "Apache-2.0",
+    "archived": false,
+    "pushed_at": "2026-11-17T13:42:31Z"
+  },
+  {
+    "repo": "heroiclabs/nakama-unity",
+    "url": "https://github.com/heroiclabs/nakama-unity",
+    "description": "Nakama Unity Client SDK",
+    "stars": 497,
+    "engines": [
+      "Unity"
+    ],
+    "game_types": [
+      "Multiplayer & online"
+    ],
+    "workflow": "Backend, persistence & live operations",
+    "reusable_kind": "library-or-tool",
+    "language": "C#",
+    "license": "NOASSERTION",
+    "archived": false,
+    "pushed_at": "2026-11-08T23:13:31Z"
+  },
+  {
+    "repo": "heroiclabs/nakama-unreal",
+    "url": "https://github.com/heroiclabs/nakama-unreal",
+    "description": "Nakama Unreal Client SDK",
+    "stars": 265,
+    "engines": [
+      "Unreal Engine"
+    ],
+    "game_types": [
+      "Multiplayer & online"
+    ],
+    "workflow": "Backend, persistence & live operations",
+    "reusable_kind": "library-or-tool",
+    "language": "C++",
+    "license": "Apache-2.0",
+    "archived": false,
+    "pushed_at": "2026-10-28T14:36:36Z"
+  },
+  {
+    "repo": "hmans/miniplex",
+    "url": "https://github.com/hmans/miniplex",
+    "description": "A 👩‍💻 developer-friendly entity management system for 🕹 games and similarly demanding applications, based on 🛠 ECS architecture.",
+    "stars": 1067,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Architecture, ECS & scripting",
+    "reusable_kind": "library-or-tool",
+    "language": "TypeScript",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-04-05T11:12:40Z"
+  },
+  {
+    "repo": "Hugo-Dz/spritefusion-sprite-normals",
+    "url": "https://github.com/Hugo-Dz/spritefusion-sprite-normals",
+    "description": "Generate normal maps from sprites and animated sprite sheets.",
+    "stars": 840,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "2D"
+    ],
+    "workflow": "Asset pipelines & formats",
+    "reusable_kind": "content-tool",
+    "language": "Rust",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": null
+  },
+  {
+    "repo": "hugoscurti/hierarchical-pathfinding",
+    "url": "https://github.com/hugoscurti/hierarchical-pathfinding",
+    "description": "Implementation of Near-Optimal Hierarchical Pathfinding (HPA*) algorithm in Unity, tested with maps from Dragon Age: Origins",
+    "stars": 196,
+    "engines": [
+      "Unity"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Gameplay systems, physics & AI",
+    "reusable_kind": "library-or-tool",
+    "language": "C#",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2022-12-26T16:59:36Z"
+  },
+  {
+    "repo": "hww/varp_oscilloscope",
+    "url": "https://github.com/hww/varp_oscilloscope",
+    "description": "Unity tool for plotting changing runtime values.",
+    "stars": 22,
+    "engines": [
+      "Unity"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Debugging & profiling",
+    "reusable_kind": "library-or-tool",
+    "language": "C#",
+    "license": null,
+    "archived": false,
+    "pushed_at": null
+  },
+  {
+    "repo": "i42output/neoGFX",
+    "url": "https://github.com/i42output/neoGFX",
+    "description": "Cross-platform GPU-oriented C++ application/game framework",
+    "stars": 577,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Architecture, ECS & scripting",
+    "reusable_kind": "library-or-tool",
+    "language": "C++",
+    "license": "GPL-3.0",
+    "archived": false,
+    "pushed_at": "2026-11-16T19:18:02Z"
+  },
+  {
+    "repo": "ikpil/Box2D.NET",
+    "url": "https://github.com/ikpil/Box2D.NET",
+    "description": "Box2D.NET - a C# port of Box2D, is a 2D physics engine for games, .NET, Unity3D, servers",
+    "stars": 228,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "2D"
+    ],
+    "workflow": "Gameplay systems, physics & AI",
+    "reusable_kind": "library-or-tool",
+    "language": "C#",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-10-01T17:01:31Z"
+  },
+  {
+    "repo": "ikpil/DotRecast",
+    "url": "https://github.com/ikpil/DotRecast",
+    "description": "DotRecast - a C# port of Recast & Detour, Industry-standard navigation mesh toolset for .NET, Unity3D, games, servers",
+    "stars": 969,
+    "engines": [
+      "Unity"
+    ],
+    "game_types": [
+      "3D"
+    ],
+    "workflow": "Gameplay systems, physics & AI",
+    "reusable_kind": "library-or-tool",
+    "language": "C#",
+    "license": "Zlib",
+    "archived": false,
+    "pushed_at": "2026-10-03T04:49:02Z"
+  },
+  {
+    "repo": "increpare/bfxr",
+    "url": "https://github.com/increpare/bfxr",
+    "description": "Flash + AIR sound effects generator. Based on Sfxr.",
+    "stars": 1028,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Audio & music",
+    "reusable_kind": "content-tool",
+    "language": "ActionScript",
+    "license": null,
+    "archived": false,
+    "pushed_at": "2025-04-17T12:18:05Z"
+  },
+  {
+    "repo": "increpare/bfxr2",
+    "url": "https://github.com/increpare/bfxr2",
+    "description": "bfxr.net in javascript, with more things!",
+    "stars": 355,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Audio & music",
+    "reusable_kind": "content-tool",
+    "language": "HTML",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-18T13:28:59Z"
+  },
+  {
+    "repo": "increpare/PuzzleScript",
+    "url": "https://github.com/increpare/PuzzleScript",
+    "description": "Open Source HTML5 Puzzle Game Engine",
+    "stars": 1115,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Puzzle & board games"
+    ],
+    "workflow": "Architecture, ECS & scripting",
+    "reusable_kind": "library-or-tool",
+    "language": "JavaScript",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-09T15:18:56Z"
+  },
+  {
+    "repo": "indiesoftby/defold-yagames",
+    "url": "https://github.com/indiesoftby/defold-yagames",
+    "description": "YaGames is the Yandex.Games SDK implementation for the Defold game engine.",
+    "stars": 77,
+    "engines": [
+      "Defold"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Publishing & monetization",
+    "reusable_kind": "library-or-tool",
+    "language": "Lua",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2025-12-28T22:17:45Z"
+  },
+  {
+    "repo": "inexorgame/audioaugust",
+    "url": "https://github.com/inexorgame/audioaugust",
+    "description": "A self made set of sounds.",
+    "stars": 27,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Audio & music",
+    "reusable_kind": "content-tool",
+    "language": null,
+    "license": "CC-BY-4.0",
+    "archived": false,
+    "pushed_at": "2018-07-29T20:23:48Z"
+  },
+  {
+    "repo": "inkle/ink",
+    "url": "https://github.com/inkle/ink",
+    "description": "inkle's open source scripting language for writing interactive narrative.",
+    "stars": 5025,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Narrative & visual novel"
+    ],
+    "workflow": "Game design & planning",
+    "reusable_kind": "library-or-tool",
+    "language": "C#",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-16T16:21:09Z"
+  },
+  {
+    "repo": "inkle/inky",
+    "url": "https://github.com/inkle/inky",
+    "description": "An editor for ink: inkle's narrative scripting language",
+    "stars": 2760,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Narrative & visual novel"
+    ],
+    "workflow": "Game design & planning",
+    "reusable_kind": "library-or-tool",
+    "language": "JavaScript",
+    "license": null,
+    "archived": false,
+    "pushed_at": "2026-05-05T14:44:18Z"
+  },
+  {
+    "repo": "InvadingOctopus/octopuskit",
+    "url": "https://github.com/InvadingOctopus/octopuskit",
+    "description": "2D ECS game engine in 100% Swift + SwiftUI for iOS, macOS, tvOS",
+    "stars": 487,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "2D"
+    ],
+    "workflow": "Architecture, ECS & scripting",
+    "reusable_kind": "library-or-tool",
+    "language": "Swift",
+    "license": "Apache-2.0",
+    "archived": false,
+    "pushed_at": "2024-06-19T10:14:21Z"
+  },
+  {
+    "repo": "Is-Daouda/is-Engine",
+    "url": "https://github.com/Is-Daouda/is-Engine",
+    "description": "C++, SDL 2 and SFML game engine that allows to create games on Nintendo Switch, Web (HTML 5), Mobile and PC.",
+    "stars": 236,
+    "engines": [
+      "SDL/SFML"
+    ],
+    "game_types": [
+      "2D"
+    ],
+    "workflow": "Engines & frameworks",
+    "reusable_kind": "engine/framework",
+    "language": "C",
+    "license": "Zlib",
+    "archived": false,
+    "pushed_at": "2026-09-14T16:48:45Z"
+  },
+  {
+    "repo": "jarikomppa/soloud",
+    "url": "https://github.com/jarikomppa/soloud",
+    "description": "Free, easy, portable audio engine for games",
+    "stars": 2197,
+    "engines": [
+      "GameMaker"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Audio & music",
+    "reusable_kind": "content-tool",
+    "language": "C",
+    "license": "NOASSERTION",
+    "archived": false,
+    "pushed_at": "2024-08-13T04:10:58Z"
+  },
+  {
+    "repo": "jasielmacedo/steam-microtransaction-api",
+    "url": "https://github.com/jasielmacedo/steam-microtransaction-api",
+    "description": "An intermediate api to handle steam microtransactions using steam web services. Ready to use with Unity, Unreal, Godot and so on",
+    "stars": 57,
+    "engines": [
+      "Godot",
+      "Unity",
+      "Unreal Engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Publishing & monetization",
+    "reusable_kind": "library-or-tool",
+    "language": "TypeScript",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-01-23T01:38:03Z"
+  },
+  {
+    "repo": "Jaysmito101/TerraForge3D",
+    "url": "https://github.com/Jaysmito101/TerraForge3D",
+    "description": "Cross-platform procedural terrain-generation and texturing tool.",
+    "stars": 1268,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "3D",
+      "Sandbox & procedural worlds"
+    ],
+    "workflow": "Levels & world building",
+    "reusable_kind": "content-tool",
+    "language": "C++",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": null
+  },
+  {
+    "repo": "jbuehler23/bevy_map_editor",
+    "url": "https://github.com/jbuehler23/bevy_map_editor",
+    "description": "A map/world/level editor for bevy games!",
+    "stars": 63,
+    "engines": [
+      "Bevy"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Levels & world building",
+    "reusable_kind": "content-tool",
+    "language": "Rust",
+    "license": "Apache-2.0",
+    "archived": false,
+    "pushed_at": "2026-04-20T08:49:11Z"
+  },
+  {
+    "repo": "jkuhlmann/cgltf",
+    "url": "https://github.com/jkuhlmann/cgltf",
+    "description": ":diamond_shape_with_a_dot_inside: Single-file glTF 2.0 loader and writer written in C99",
+    "stars": 2034,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "3D"
+    ],
+    "workflow": "Asset pipelines & formats",
+    "reusable_kind": "content-tool",
+    "language": "C",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-02-02T20:32:49Z"
+  },
+  {
+    "repo": "jmorton06/Lumos",
+    "url": "https://github.com/jmorton06/Lumos",
+    "description": "Cross-Platform C++ 2D/3D game engine",
+    "stars": 1605,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "2D",
+      "3D"
+    ],
+    "workflow": "Architecture, ECS & scripting",
+    "reusable_kind": "library-or-tool",
+    "language": "C++",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-10T16:55:15Z"
+  },
+  {
+    "repo": "jonobr1/two.js",
+    "url": "https://github.com/jonobr1/two.js",
+    "description": "A renderer agnostic two-dimensional drawing api for the web",
+    "stars": 8752,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "2D"
+    ],
+    "workflow": "Rendering, shaders & visual effects",
+    "reusable_kind": "content-tool",
+    "language": "JavaScript",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-17T05:54:40Z"
+  },
+  {
+    "repo": "jrouwe/JoltPhysics",
+    "url": "https://github.com/jrouwe/JoltPhysics",
+    "description": "A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West and Death Stranding 2.",
+    "stars": 12349,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "VR & XR"
+    ],
+    "workflow": "Gameplay systems, physics & AI",
+    "reusable_kind": "library-or-tool",
+    "language": "C++",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-18T23:06:16Z"
+  },
+  {
+    "repo": "jrouwe/JoltPhysics.js",
+    "url": "https://github.com/jrouwe/JoltPhysics.js",
+    "description": "Port of JoltPhysics to JavaScript using emscripten",
+    "stars": 590,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "VR & XR"
+    ],
+    "workflow": "Gameplay systems, physics & AI",
+    "reusable_kind": "library-or-tool",
+    "language": "C++",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-15T10:04:28Z"
+  },
+  {
+    "repo": "Kaigen-Technologies/net-crowd-stress-test",
+    "url": "https://github.com/Kaigen-Technologies/net-crowd-stress-test",
+    "description": "A plaza of networked players on one server: a netcode stress test for the Kaigen Engine",
+    "stars": 23,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "3D",
+      "Multiplayer & online"
+    ],
+    "workflow": "Networking & multiplayer",
+    "reusable_kind": "library-or-tool",
+    "language": "C",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-15T21:31:16Z"
+  },
+  {
+    "repo": "KhronosGroup/glTF-Blender-IO",
+    "url": "https://github.com/KhronosGroup/glTF-Blender-IO",
+    "description": "Blender glTF 2.0 importer and exporter",
+    "stars": 1683,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Asset pipelines & formats",
+    "reusable_kind": "content-tool",
+    "language": "Python",
+    "license": "Apache-2.0",
+    "archived": false,
+    "pushed_at": "2026-11-19T08:09:24Z"
+  },
+  {
+    "repo": "KhronosGroup/KTX-Software",
+    "url": "https://github.com/KhronosGroup/KTX-Software",
+    "description": "KTX (Khronos Texture) Library and Tools",
+    "stars": 1405,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Asset pipelines & formats",
+    "reusable_kind": "content-tool",
+    "language": "C++",
+    "license": "NOASSERTION",
+    "archived": false,
+    "pushed_at": "2026-11-17T22:44:51Z"
+  },
+  {
+    "repo": "KilledByAPixel/ZzFX",
+    "url": "https://github.com/KilledByAPixel/ZzFX",
+    "description": "A Tiny JavaScript Sound FX System",
+    "stars": 816,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Audio & music",
+    "reusable_kind": "content-tool",
+    "language": "JavaScript",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-03T03:17:17Z"
+  },
+  {
+    "repo": "kitao/pyxel",
+    "url": "https://github.com/kitao/pyxel",
+    "description": "A retro game engine for Python",
+    "stars": 18649,
+    "engines": [
+      "Other engines"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Engines & frameworks",
+    "reusable_kind": "engine/framework",
+    "language": "Rust",
+    "license": "NOASSERTION",
+    "archived": false,
+    "pushed_at": "2026-11-19T08:37:26Z"
+  },
+  {
+    "repo": "konvajs/konva",
+    "url": "https://github.com/konvajs/konva",
+    "description": "Konva.js is an HTML5 Canvas JavaScript framework for interactive graphics, design editors, whiteboards, and diagrams. Scene graph with events, drag and drop, transforms, animations, and export.",
+    "stars": 15003,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Art, sprites, animation & 3D",
+    "reusable_kind": "content-tool",
+    "language": "TypeScript",
+    "license": "NOASSERTION",
+    "archived": false,
+    "pushed_at": "2026-11-16T13:58:24Z"
+  },
+  {
+    "repo": "kool-engine/kool",
+    "url": "https://github.com/kool-engine/kool",
+    "description": "A Vulkan / WebGPU / OpenGL engine for Desktop JVM, Android and Javascript written in Kotlin",
+    "stars": 598,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "3D"
+    ],
+    "workflow": "Rendering, shaders & visual effects",
+    "reusable_kind": "content-tool",
+    "language": "Kotlin",
+    "license": "Apache-2.0",
+    "archived": false,
+    "pushed_at": "2026-11-18T21:39:54Z"
+  },
+  {
+    "repo": "kovacsv/VisualScriptEngine",
+    "url": "https://github.com/kovacsv/VisualScriptEngine",
+    "description": "A C++ visual scripting engine designed for embedding.",
+    "stars": 222,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Architecture, ECS & scripting",
+    "reusable_kind": "library-or-tool",
+    "language": "C++",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2024-05-20T17:36:48Z"
+  },
+  {
+    "repo": "KTStephano/StratusGFX",
+    "url": "https://github.com/KTStephano/StratusGFX",
+    "description": "Realtime 3D rendering engine",
+    "stars": 823,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "3D"
+    ],
+    "workflow": "Rendering, shaders & visual effects",
+    "reusable_kind": "content-tool",
+    "language": "C++",
+    "license": "MPL-2.0",
+    "archived": false,
+    "pushed_at": "2025-06-12T04:54:10Z"
+  },
+  {
+    "repo": "LambdaHack/LambdaHack",
+    "url": "https://github.com/LambdaHack/LambdaHack",
+    "description": "Haskell game engine library for roguelike dungeon crawlers; please offer feedback, e.g., after trying out the sample game with the web frontend at",
+    "stars": 660,
+    "engines": [
+      "SDL/SFML"
+    ],
+    "game_types": [
+      "RPG & roguelike"
+    ],
+    "workflow": "Engines & frameworks",
+    "reusable_kind": "engine/framework",
+    "language": "Haskell",
+    "license": "BSD-3-Clause",
+    "archived": false,
+    "pushed_at": "2026-11-14T13:24:47Z"
+  },
+  {
+    "repo": "LANCommander/LANCommander",
+    "url": "https://github.com/LANCommander/LANCommander",
+    "description": "Self-hosted game library and distribution platform with desktop launcher and package management.",
+    "stars": 482,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Publishing & monetization",
+    "reusable_kind": "library-or-tool",
+    "language": "C#",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-19T05:32:54Z"
+  },
+  {
+    "repo": "LastOliveGames/becsy",
+    "url": "https://github.com/LastOliveGames/becsy",
+    "description": "A multithreaded Entity Component System (ECS) for TypeScript and JavaScript, inspired by ECSY and bitecs.",
+    "stars": 299,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Architecture, ECS & scripting",
+    "reusable_kind": "library-or-tool",
+    "language": "TypeScript",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-10-02T06:03:36Z"
+  },
+  {
+    "repo": "LayrKits/Sprite-Pipeline",
+    "url": "https://github.com/LayrKits/Sprite-Pipeline",
+    "description": "2D Sprite Sheet Creation Pipeline",
+    "stars": 600,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "2D"
+    ],
+    "workflow": "Asset pipelines & formats",
+    "reusable_kind": "content-tool",
+    "language": "Python",
+    "license": null,
+    "archived": false,
+    "pushed_at": "2026-05-10T12:21:02Z"
+  },
+  {
+    "repo": "liabru/matter-js",
+    "url": "https://github.com/liabru/matter-js",
+    "description": "a 2D rigid body physics engine for the web ▲● ■",
+    "stars": 18659,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "2D"
+    ],
+    "workflow": "Gameplay systems, physics & AI",
+    "reusable_kind": "library-or-tool",
+    "language": "JavaScript",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-09-30T17:14:46Z"
+  },
+  {
+    "repo": "libgdx/libgdx",
+    "url": "https://github.com/libgdx/libgdx",
+    "description": "Desktop, Android, HTML5, and iOS Java game-development framework.",
+    "stars": 25541,
+    "engines": [
+      "libGDX"
+    ],
+    "game_types": [
+      "2D",
+      "3D"
+    ],
+    "workflow": "Engines & frameworks",
+    "reusable_kind": "engine/framework",
+    "language": "Java",
+    "license": "Apache-2.0",
+    "archived": false,
+    "pushed_at": null
+  },
+  {
+    "repo": "LibreSprite/LibreSprite",
+    "url": "https://github.com/LibreSprite/LibreSprite",
+    "description": "Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite",
+    "stars": 8819,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "2D"
+    ],
+    "workflow": "Asset pipelines & formats",
+    "reusable_kind": "content-tool",
+    "language": "C++",
+    "license": "GPL-2.0",
+    "archived": false,
+    "pushed_at": "2026-11-16T11:26:43Z"
+  },
+  {
+    "repo": "liortal53/UnityTestingExtensions",
+    "url": "https://github.com/liortal53/UnityTestingExtensions",
+    "description": "Unity Test Framework Extension Library",
+    "stars": 20,
+    "engines": [
+      "Unity"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Testing & QA",
+    "reusable_kind": "library-or-tool",
+    "language": "C#",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-03-03T05:34:28Z"
+  },
+  {
+    "repo": "LogicalError/realtime-CSG-for-unity",
+    "url": "https://github.com/LogicalError/realtime-CSG-for-unity",
+    "description": "Realtime-CSG, CSG level editor for Unity",
+    "stars": 1019,
+    "engines": [
+      "Unity"
+    ],
+    "game_types": [
+      "3D"
+    ],
+    "workflow": "Levels & world building",
+    "reusable_kind": "content-tool",
+    "language": "C#",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-03T01:31:37Z"
+  },
+  {
+    "repo": "Lord0fTurk/RPGMLocalizer",
+    "url": "https://github.com/Lord0fTurk/RPGMLocalizer",
+    "description": "RPGMLocalizer is a powerful automated translation tool designed for RPG Maker games.",
+    "stars": 22,
+    "engines": [
+      "RPG Maker"
+    ],
+    "game_types": [
+      "RPG & roguelike"
+    ],
+    "workflow": "UI, input, accessibility & localization",
+    "reusable_kind": "library-or-tool",
+    "language": "Python",
+    "license": "GPL-3.0",
+    "archived": false,
+    "pushed_at": "2026-09-30T16:05:42Z"
+  },
+  {
+    "repo": "love2d/love",
+    "url": "https://github.com/love2d/love",
+    "description": "LÖVE is an awesome 2D game framework for Lua.",
+    "stars": 8973,
+    "engines": [
+      "LÖVE"
+    ],
+    "game_types": [
+      "2D"
+    ],
+    "workflow": "Engines & frameworks",
+    "reusable_kind": "engine/framework",
+    "language": "C++",
+    "license": "NOASSERTION",
+    "archived": false,
+    "pushed_at": "2026-11-05T02:51:49Z"
+  },
+  {
+    "repo": "lsalzman/enet",
+    "url": "https://github.com/lsalzman/enet",
+    "description": "ENet reliable UDP networking library",
+    "stars": 3305,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Multiplayer & online"
+    ],
+    "workflow": "Networking & multiplayer",
+    "reusable_kind": "library-or-tool",
+    "language": "C",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-06-23T19:17:35Z"
+  },
+  {
+    "repo": "luanti-org/luanti",
+    "url": "https://github.com/luanti-org/luanti",
+    "description": "Open-source voxel game engine and game-creation platform with easy modding.",
+    "stars": 13877,
+    "engines": [
+      "Luanti"
+    ],
+    "game_types": [
+      "3D",
+      "Sandbox & procedural worlds"
+    ],
+    "workflow": "Engines & frameworks",
+    "reusable_kind": "engine/framework",
+    "language": "C++",
+    "license": "NOASSERTION",
+    "archived": false,
+    "pushed_at": "2026-11-16T21:36:31Z"
+  },
+  {
+    "repo": "LukasBanana/LLGL",
+    "url": "https://github.com/LukasBanana/LLGL",
+    "description": "Low Level Graphics Library (LLGL) is a thin abstraction layer for the modern graphics APIs OpenGL, Direct3D, Vulkan, and Metal",
+    "stars": 2650,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Rendering, shaders & visual effects",
+    "reusable_kind": "content-tool",
+    "language": "C++",
+    "license": "BSD-3-Clause",
+    "archived": false,
+    "pushed_at": "2026-11-15T23:09:48Z"
+  },
+  {
+    "repo": "LumioGames/LGUI",
+    "url": "https://github.com/LumioGames/LGUI",
+    "description": "Game UI framework for AI agents, made by LumioGames. Build screens, logic and tests in the browser with no game engine, then export to Unity. 给 AI Agent 用的游戏 UI 框架，不依赖游戏引擎。",
+    "stars": 138,
+    "engines": [
+      "Unity"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "UI, input, accessibility & localization",
+    "reusable_kind": "library-or-tool",
+    "language": "JavaScript",
+    "license": "NOASSERTION",
+    "archived": false,
+    "pushed_at": "2026-11-19T03:11:55Z"
+  },
+  {
+    "repo": "LWJGL/lwjgl3",
+    "url": "https://github.com/LWJGL/lwjgl3",
+    "description": "LWJGL is a Java library that enables cross-platform access to popular native APIs useful in the development of graphics (OpenGL, Vulkan, bgfx), audio (OpenAL, Opus), parallel computing (OpenCL, CUDA) and XR (OpenVR…",
+    "stars": 5492,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "VR & XR"
+    ],
+    "workflow": "Rendering, shaders & visual effects",
+    "reusable_kind": "content-tool",
+    "language": "Java",
+    "license": "BSD-3-Clause",
+    "archived": false,
+    "pushed_at": "2026-09-10T20:14:21Z"
+  },
+  {
+    "repo": "mapeditor/tiled",
+    "url": "https://github.com/mapeditor/tiled",
+    "description": "Flexible level editor",
+    "stars": 13080,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Levels & world building",
+    "reusable_kind": "content-tool",
+    "language": "C++",
+    "license": "NOASSERTION",
+    "archived": false,
+    "pushed_at": "2026-11-17T07:12:31Z"
+  },
+  {
+    "repo": "mas-bandwidth/netcode",
+    "url": "https://github.com/mas-bandwidth/netcode",
+    "description": "Secure client/server protocol for multiplayer games built on top of UDP",
+    "stars": 2607,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Multiplayer & online"
+    ],
+    "workflow": "Networking & multiplayer",
+    "reusable_kind": "library-or-tool",
+    "language": "C",
+    "license": "BSD-3-Clause",
+    "archived": false,
+    "pushed_at": "2026-11-12T19:17:46Z"
+  },
+  {
+    "repo": "mas-bandwidth/yojimbo",
+    "url": "https://github.com/mas-bandwidth/yojimbo",
+    "description": "A network library for client/server games written in C++",
+    "stars": 2759,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Multiplayer & online"
+    ],
+    "workflow": "Networking & multiplayer",
+    "reusable_kind": "library-or-tool",
+    "language": "C++",
+    "license": "BSD-3-Clause",
+    "archived": false,
+    "pushed_at": "2026-11-12T19:17:41Z"
+  },
+  {
+    "repo": "masteryee-labs/Open-Godot-MCP",
+    "url": "https://github.com/masteryee-labs/Open-Godot-MCP",
+    "description": "Open-source MCP server for AI-autonomous Godot game development. Deterministic playtesting, multiplayer testing, DAP debugging, LSP, token-efficient. 100% MIT.",
+    "stars": 15,
+    "engines": [
+      "Godot"
+    ],
+    "game_types": [
+      "Multiplayer & online"
+    ],
+    "workflow": "Testing & QA",
+    "reusable_kind": "library-or-tool",
+    "language": "GDScript",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-12T13:29:02Z"
+  },
+  {
+    "repo": "MechanicalFlower/godot-template",
+    "url": "https://github.com/MechanicalFlower/godot-template",
+    "description": "Godot project template with code formatting, license tracking, and CI/CD.",
+    "stars": 69,
+    "engines": [
+      "Godot"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Project foundations & templates",
+    "reusable_kind": "starter-template",
+    "language": "GDScript",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": null
+  },
+  {
+    "repo": "melonjs/melonJS",
+    "url": "https://github.com/melonjs/melonJS",
+    "description": "HTML5 2D and 3D game engine with physics, Tiled maps, glTF, and WebAudio support.",
+    "stars": 6510,
+    "engines": [
+      "melonJS"
+    ],
+    "game_types": [
+      "2D",
+      "3D"
+    ],
+    "workflow": "Engines & frameworks",
+    "reusable_kind": "engine/framework",
+    "language": "JavaScript",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": null
+  },
+  {
+    "repo": "meshula/LabMidi",
+    "url": "https://github.com/meshula/LabMidi",
+    "description": "Midi IN and OUT. Standard midi file parser and player. Midi Softsynth implementation.",
+    "stars": 92,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "3D"
+    ],
+    "workflow": "Audio & music",
+    "reusable_kind": "content-tool",
+    "language": "C++",
+    "license": "NOASSERTION",
+    "archived": false,
+    "pushed_at": "2026-07-15T04:04:46Z"
+  },
+  {
+    "repo": "mgerhardy/simpleai",
+    "url": "https://github.com/mgerhardy/simpleai",
+    "description": "C++ behavior-tree AI library with a remote debugger and optional Lua bindings.",
+    "stars": 177,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Gameplay systems, physics & AI",
+    "reusable_kind": "library-or-tool",
+    "language": "C++",
+    "license": "NOASSERTION",
+    "archived": false,
+    "pushed_at": null
+  },
+  {
+    "repo": "microsoft/DirectXTK",
+    "url": "https://github.com/microsoft/DirectXTK",
+    "description": "The DirectX Tool Kit (aka DirectXTK) is a collection of helper classes for writing DirectX 11.x code in C++",
+    "stars": 2875,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Rendering, shaders & visual effects",
+    "reusable_kind": "content-tool",
+    "language": "C++",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-03T21:52:16Z"
+  },
+  {
+    "repo": "MikeSchulze/gdUnit3",
+    "url": "https://github.com/MikeSchulze/gdUnit3",
+    "description": "Godot 3 unit-testing framework for GDScript and C#.",
+    "stars": 320,
+    "engines": [
+      "Godot"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Testing & QA",
+    "reusable_kind": "library-or-tool",
+    "language": "GDScript",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": null
+  },
+  {
+    "repo": "mikrima/UnityAccessibilityPlugin",
+    "url": "https://github.com/mikrima/UnityAccessibilityPlugin",
+    "description": "The UI Accessibility Plugin (UAP) allows you to make your UI accessible to blind and visually impaired players on Windows, Android, iOS, Mac and WebGL.",
+    "stars": 85,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "UI, input, accessibility & localization",
+    "reusable_kind": "library-or-tool",
+    "language": "C#",
+    "license": "Apache-2.0",
+    "archived": false,
+    "pushed_at": "2023-05-13T11:06:42Z"
+  },
+  {
+    "repo": "milcktoast/particulate-js",
+    "url": "https://github.com/milcktoast/particulate-js",
+    "description": "Particle physics micro library.",
+    "stars": 353,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Gameplay systems, physics & AI",
+    "reusable_kind": "library-or-tool",
+    "language": "JavaScript",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-06-14T19:24:42Z"
+  },
+  {
+    "repo": "milkytracker/MilkyTracker",
+    "url": "https://github.com/milkytracker/MilkyTracker",
+    "description": "A Fasttracker II compatible music editor",
+    "stars": 2136,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Audio & music",
+    "reusable_kind": "content-tool",
+    "language": "C++",
+    "license": "NOASSERTION",
+    "archived": false,
+    "pushed_at": "2026-09-10T08:26:43Z"
+  },
+  {
+    "repo": "MirrorNetworking/Mirror",
+    "url": "https://github.com/MirrorNetworking/Mirror",
+    "description": "#1 Open Source Unity Networking Library",
+    "stars": 6396,
+    "engines": [
+      "Unity"
+    ],
+    "game_types": [
+      "Multiplayer & online"
+    ],
+    "workflow": "Networking & multiplayer",
+    "reusable_kind": "library-or-tool",
+    "language": "C#",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-18T11:17:38Z"
+  },
+  {
+    "repo": "MovingBlocks/Terasology",
+    "url": "https://github.com/MovingBlocks/Terasology",
+    "description": "Modular voxel-world game platform; code and assets use separate licenses.",
+    "stars": 3912,
+    "engines": [
+      "Terasology"
+    ],
+    "game_types": [
+      "3D",
+      "Sandbox & procedural worlds"
+    ],
+    "workflow": "Engines & frameworks",
+    "reusable_kind": "engine/framework",
+    "language": "Java",
+    "license": "Apache-2.0",
+    "archived": false,
+    "pushed_at": "2026-11-18T03:43:02Z"
+  },
+  {
+    "repo": "mrdoob/three.js",
+    "url": "https://github.com/mrdoob/three.js",
+    "description": "JavaScript 3D library used to build interactive 3D and browser-game experiences.",
+    "stars": 118896,
+    "engines": [
+      "Three.js"
+    ],
+    "game_types": [
+      "3D"
+    ],
+    "workflow": "Engines & frameworks",
+    "reusable_kind": "engine/framework",
+    "language": "JavaScript",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": null
+  },
+  {
+    "repo": "mrven/Blender-Asset-Creation-Toolset",
+    "url": "https://github.com/mrven/Blender-Asset-Creation-Toolset",
+    "description": "Many Tools for Game Asset Creation (Import/Export FBXs, Origin Aligment Tool, Renaming, Low-Poly Art workflow tools, etc.)",
+    "stars": 374,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Asset pipelines & formats",
+    "reusable_kind": "content-tool",
+    "language": "Python",
+    "license": "GPL-3.0",
+    "archived": false,
+    "pushed_at": "2026-07-29T19:46:18Z"
+  },
+  {
+    "repo": "mtwilliams/libgamepad",
+    "url": "https://github.com/mtwilliams/libgamepad",
+    "description": ":video_game: Cross-platform library for gamepad input. MIT licensed.",
+    "stars": 25,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "UI, input, accessibility & localization",
+    "reusable_kind": "library-or-tool",
+    "language": "C",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2021-06-12T22:41:20Z"
+  },
+  {
+    "repo": "naomiaro/waveform-playlist",
+    "url": "https://github.com/naomiaro/waveform-playlist",
+    "description": "Multitrack Web Audio editor and player with canvas waveform preview. Set cues, fades and shift multiple tracks in time. Record audio tracks or provide audio annotations.",
+    "stars": 1695,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Audio & music",
+    "reusable_kind": "content-tool",
+    "language": "TypeScript",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-16T01:33:06Z"
+  },
+  {
+    "repo": "NateTheGreatt/bitECS",
+    "url": "https://github.com/NateTheGreatt/bitECS",
+    "description": "Flexible, minimal, data-oriented ECS library for Typescript",
+    "stars": 1541,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Architecture, ECS & scripting",
+    "reusable_kind": "library-or-tool",
+    "language": "TypeScript",
+    "license": "MPL-2.0",
+    "archived": false,
+    "pushed_at": "2026-08-24T15:31:37Z"
+  },
+  {
+    "repo": "nathanhoad/godot_dialogue_manager",
+    "url": "https://github.com/nathanhoad/godot_dialogue_manager",
+    "description": "A powerful nonlinear dialogue system for Godot",
+    "stars": 3991,
+    "engines": [
+      "Godot"
+    ],
+    "game_types": [
+      "Narrative & visual novel"
+    ],
+    "workflow": "Game design & planning",
+    "reusable_kind": "library-or-tool",
+    "language": "GDScript",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-16T10:52:22Z"
+  },
+  {
+    "repo": "needle-mirror/com.unity.addressables",
+    "url": "https://github.com/needle-mirror/com.unity.addressables",
+    "description": "[Mirrored from UPM, not affiliated with Unity Technologies.] 📦 The Addressable Asset System allows the developer to ask for an asset via its address. Once an asset (e.g.",
+    "stars": 97,
+    "engines": [
+      "Unity"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Asset pipelines & formats",
+    "reusable_kind": "content-tool",
+    "language": "C#",
+    "license": "NOASSERTION",
+    "archived": false,
+    "pushed_at": "2026-11-06T22:12:10Z"
+  },
+  {
+    "repo": "needle-mirror/com.unity.memoryprofiler",
+    "url": "https://github.com/needle-mirror/com.unity.memoryprofiler",
+    "description": "The Memory Profiler offers a unified solution allowing you to profile both small projects on mobile devices and big AAA projects on high end machines.",
+    "stars": 22,
+    "engines": [
+      "Unity"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Debugging & profiling",
+    "reusable_kind": "library-or-tool",
+    "language": "C#",
+    "license": "NOASSERTION",
+    "archived": false,
+    "pushed_at": "2026-10-24T22:12:16Z"
+  },
+  {
+    "repo": "needle-mirror/com.unity.scriptablebuildpipeline",
+    "url": "https://github.com/needle-mirror/com.unity.scriptablebuildpipeline",
+    "description": "The Scriptable Build Pipeline moves the asset bundle build pipeline to C#. Use the pre-defined build flows, or create your own using the divided up APIs.",
+    "stars": 18,
+    "engines": [
+      "Unity"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Asset pipelines & formats",
+    "reusable_kind": "content-tool",
+    "language": "C#",
+    "license": "NOASSERTION",
+    "archived": false,
+    "pushed_at": "2026-11-06T22:19:32Z"
+  },
+  {
+    "repo": "nem0/LumixEngine",
+    "url": "https://github.com/nem0/LumixEngine",
+    "description": "3D C++ Game Engine - yet another open source game engine",
+    "stars": 3910,
+    "engines": [
+      "Other engines"
+    ],
+    "game_types": [
+      "3D"
+    ],
+    "workflow": "Engines & frameworks",
+    "reusable_kind": "engine/framework",
+    "language": "C++",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-19T00:06:55Z"
+  },
+  {
+    "repo": "NeoAxis/NeoAxisEngine",
+    "url": "https://github.com/NeoAxis/NeoAxisEngine",
+    "description": "A versatile game engine designed for creating video games and real-time apps.",
+    "stars": 265,
+    "engines": [
+      "Other engines"
+    ],
+    "game_types": [
+      "2D",
+      "3D"
+    ],
+    "workflow": "Engines & frameworks",
+    "reusable_kind": "engine/framework",
+    "language": "C#",
+    "license": "NOASSERTION",
+    "archived": false,
+    "pushed_at": "2026-11-10T18:37:13Z"
+  },
+  {
+    "repo": "nicolas-van/sonant-x",
+    "url": "https://github.com/nicolas-van/sonant-x",
+    "description": "Small JavaScript synthesizer library",
+    "stars": 250,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Audio & music",
+    "reusable_kind": "content-tool",
+    "language": "JavaScript",
+    "license": "Zlib",
+    "archived": false,
+    "pushed_at": "2025-06-18T05:44:39Z"
+  },
+  {
+    "repo": "nidorx/ecs-lib",
+    "url": "https://github.com/nidorx/ecs-lib",
+    "description": "Tiny and easy to use ECS (Entity Component System) library for game programming",
+    "stars": 216,
+    "engines": [
+      "Three.js"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Architecture, ECS & scripting",
+    "reusable_kind": "library-or-tool",
+    "language": "TypeScript",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2023-03-02T08:26:26Z"
+  },
+  {
+    "repo": "noonat/intersect",
+    "url": "https://github.com/noonat/intersect",
+    "description": "An explanation of 2D collision tests in JavaScript",
+    "stars": 93,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "2D"
+    ],
+    "workflow": "Gameplay systems, physics & AI",
+    "reusable_kind": "library-or-tool",
+    "language": "TypeScript",
+    "license": "Zlib",
+    "archived": false,
+    "pushed_at": "2026-10-21T01:28:49Z"
+  },
+  {
+    "repo": "not-fl3/macroquad",
+    "url": "https://github.com/not-fl3/macroquad",
+    "description": "Cross-platform game engine in Rust.",
+    "stars": 4735,
+    "engines": [
+      "Other engines"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Engines & frameworks",
+    "reusable_kind": "engine/framework",
+    "language": "Rust",
+    "license": "Apache-2.0",
+    "archived": false,
+    "pushed_at": "2026-08-18T09:37:35Z"
+  },
+  {
+    "repo": "notgiven688/jitterphysics2",
+    "url": "https://github.com/notgiven688/jitterphysics2",
+    "description": "Fast, simple to use, and dependency-free physics engine written in C# with a clear and user-friendly API.",
+    "stars": 457,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Gameplay systems, physics & AI",
+    "reusable_kind": "library-or-tool",
+    "language": "C#",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-18T18:04:23Z"
+  },
+  {
+    "repo": "Noxime/steamworks-rs",
+    "url": "https://github.com/Noxime/steamworks-rs",
+    "description": "Rust bindings for the Steamworks SDK.",
+    "stars": 498,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Multiplayer & online"
+    ],
+    "workflow": "Publishing & monetization",
+    "reusable_kind": "library-or-tool",
+    "language": "Rust",
+    "license": "Apache-2.0",
+    "archived": false,
+    "pushed_at": null
+  },
+  {
+    "repo": "ObEngine/ObEngine",
+    "url": "https://github.com/ObEngine/ObEngine",
+    "description": "2D Game Engine with Lua Scripting made on top of SFML !",
+    "stars": 870,
+    "engines": [
+      "SDL/SFML"
+    ],
+    "game_types": [
+      "2D"
+    ],
+    "workflow": "Engines & frameworks",
+    "reusable_kind": "engine/framework",
+    "language": "C++",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-07-09T00:56:01Z"
+  },
+  {
+    "repo": "ocornut/imgui",
+    "url": "https://github.com/ocornut/imgui",
+    "description": "Immediate-mode graphical UI library for C++ tools and runtime interfaces.",
+    "stars": 77171,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "UI, input, accessibility & localization",
+    "reusable_kind": "library-or-tool",
+    "language": "C++",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": null
+  },
+  {
+    "repo": "OGRECave/ogre",
+    "url": "https://github.com/OGRECave/ogre",
+    "description": "high-performance rendering backend (C++, Python, C#, Java)",
+    "stars": 4708,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "3D"
+    ],
+    "workflow": "Rendering, shaders & visual effects",
+    "reusable_kind": "content-tool",
+    "language": "C++",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-18T22:23:26Z"
+  },
+  {
+    "repo": "openaigames/OpenAIGamesDesigner",
+    "url": "https://github.com/openaigames/OpenAIGamesDesigner",
+    "description": "Skills, asset pipelines, and runtime tools for AI-assisted game development with Godot, Unity, Unreal Engine, Three.js, and Phaser.",
+    "stars": 27,
+    "engines": [
+      "Godot",
+      "Unity",
+      "Unreal Engine",
+      "Phaser",
+      "Three.js"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Asset pipelines & formats",
+    "reusable_kind": "content-tool",
+    "language": "Python",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-10-15T13:59:26Z"
+  },
+  {
+    "repo": "openfl/actuate",
+    "url": "https://github.com/openfl/actuate",
+    "description": "Actuate is a flexible, fast \"tween\" library for animations in Haxe",
+    "stars": 161,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Art, sprites, animation & 3D",
+    "reusable_kind": "content-tool",
+    "language": "Haxe",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-03-17T20:41:32Z"
+  },
+  {
+    "repo": "OpenRA/OpenRA",
+    "url": "https://github.com/OpenRA/OpenRA",
+    "description": "Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.",
+    "stars": 17809,
+    "engines": [
+      "OpenRA",
+      "SDL/SFML"
+    ],
+    "game_types": [
+      "Strategy & simulation"
+    ],
+    "workflow": "Engines & frameworks",
+    "reusable_kind": "engine/framework",
+    "language": "C#",
+    "license": "GPL-3.0",
+    "archived": false,
+    "pushed_at": "2026-11-17T18:18:37Z"
+  },
+  {
+    "repo": "opentk/opentk",
+    "url": "https://github.com/opentk/opentk",
+    "description": "The Open Toolkit library is a fast, low-level C# wrapper for OpenGL, OpenAL & OpenCL.",
+    "stars": 3548,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Rendering, shaders & visual effects",
+    "reusable_kind": "content-tool",
+    "language": "C#",
+    "license": "NOASSERTION",
+    "archived": false,
+    "pushed_at": "2026-10-15T11:54:17Z"
+  },
+  {
+    "repo": "OpenXRay/xray-16",
+    "url": "https://github.com/OpenXRay/xray-16",
+    "description": "Improved version of the X-Ray Engine, the game engine used in the world-famous S.T.A.L.K.E.R. game series by GSC Game World. Join OpenXRay! ;)",
+    "stars": 3612,
+    "engines": [
+      "SDL/SFML",
+      "X-Ray"
+    ],
+    "game_types": [
+      "3D",
+      "VR & XR"
+    ],
+    "workflow": "Engines & frameworks",
+    "reusable_kind": "engine/framework",
+    "language": "C++",
+    "license": "NOASSERTION",
+    "archived": false,
+    "pushed_at": "2026-11-16T02:31:54Z"
+  },
+  {
+    "repo": "Orama-Interactive/Pixelorama",
+    "url": "https://github.com/Orama-Interactive/Pixelorama",
+    "description": "Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool.",
+    "stars": 11147,
+    "engines": [
+      "Godot"
+    ],
+    "game_types": [
+      "2D"
+    ],
+    "workflow": "Art, sprites, animation & 3D",
+    "reusable_kind": "content-tool",
+    "language": "GDScript",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-18T12:30:45Z"
+  },
+  {
+    "repo": "OwlcatGames/LocalizationTool",
+    "url": "https://github.com/OwlcatGames/LocalizationTool",
+    "description": "A tool for creating and maintaining game's localization resources",
+    "stars": 18,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "UI, input, accessibility & localization",
+    "reusable_kind": "library-or-tool",
+    "language": "C#",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2025-07-18T09:02:18Z"
+  },
+  {
+    "repo": "PanosK92/SpartanEngine",
+    "url": "https://github.com/PanosK92/SpartanEngine",
+    "description": "A game engine with a fully bindless, GPU-driven renderer featuring real-time path-traced global illumination, hardware ray tracing, and a physics simulation running at 200Hz, built over 12+ years of R&D",
+    "stars": 3258,
+    "engines": [
+      "Other engines"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Engines & frameworks",
+    "reusable_kind": "engine/framework",
+    "language": "C++",
+    "license": "NOASSERTION",
+    "archived": false,
+    "pushed_at": "2026-11-19T00:07:07Z"
+  },
+  {
+    "repo": "papercraftgames/folded-paper-engine",
+    "url": "https://github.com/papercraftgames/folded-paper-engine",
+    "description": "A custom Blender-to-Godot addon that makes level and gameplay creation as easy as a few clicks!",
+    "stars": 175,
+    "engines": [
+      "Godot"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Art, sprites, animation & 3D",
+    "reusable_kind": "content-tool",
+    "language": "GDScript",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-10-27T06:29:31Z"
+  },
+  {
+    "repo": "patterkit/patter",
+    "url": "https://github.com/patterkit/patter",
+    "description": "Editor, compiler, and runtimes for writing and running dialogue flows for videogames.",
+    "stars": 23,
+    "engines": [
+      "Godot",
+      "Unity",
+      "Unreal Engine"
+    ],
+    "game_types": [
+      "Narrative & visual novel"
+    ],
+    "workflow": "Game design & planning",
+    "reusable_kind": "library-or-tool",
+    "language": "TypeScript",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-17T17:44:44Z"
+  },
+  {
+    "repo": "pawsgineer/b3d_paws_bakery",
+    "url": "https://github.com/pawsgineer/b3d_paws_bakery",
+    "description": "PAWS Bakery is a Blender add-on that speeds up the Texture Baking pipeline for Game-Ready assets",
+    "stars": 30,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Art, sprites, animation & 3D",
+    "reusable_kind": "content-tool",
+    "language": "Python",
+    "license": "GPL-3.0",
+    "archived": false,
+    "pushed_at": "2025-09-08T08:57:13Z"
+  },
+  {
+    "repo": "phaserjs/phaser",
+    "url": "https://github.com/phaserjs/phaser",
+    "description": "Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.",
+    "stars": 40744,
+    "engines": [
+      "Phaser"
+    ],
+    "game_types": [
+      "2D"
+    ],
+    "workflow": "Engines & frameworks",
+    "reusable_kind": "engine/framework",
+    "language": "JavaScript",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-08-21T06:56:13Z"
+  },
+  {
+    "repo": "phisko/kengine",
+    "url": "https://github.com/phisko/kengine",
+    "description": "Game engine with an Entity-Component-System (ECS) architecture. Focus on ease-of-use, runtime extensibility and compile-time type safety.",
+    "stars": 619,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Architecture, ECS & scripting",
+    "reusable_kind": "library-or-tool",
+    "language": "C++",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2023-03-10T12:07:24Z"
+  },
+  {
+    "repo": "Pineapple/GodotTracy",
+    "url": "https://github.com/Pineapple/GodotTracy",
+    "description": "Tracy Profiler module for the Godot Engine",
+    "stars": 132,
+    "engines": [
+      "Godot"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Debugging & profiling",
+    "reusable_kind": "library-or-tool",
+    "language": "Python",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2024-08-08T12:28:23Z"
+  },
+  {
+    "repo": "piqnt/planck.js",
+    "url": "https://github.com/piqnt/planck.js",
+    "description": "2D JavaScript Physics Engine",
+    "stars": 5322,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "2D"
+    ],
+    "workflow": "Gameplay systems, physics & AI",
+    "reusable_kind": "library-or-tool",
+    "language": "TypeScript",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-14T10:34:08Z"
+  },
+  {
+    "repo": "piskelapp/piskel",
+    "url": "https://github.com/piskelapp/piskel",
+    "description": "Web-based sprite and pixel-art editor.",
+    "stars": 13000,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "2D"
+    ],
+    "workflow": "Art, sprites, animation & 3D",
+    "reusable_kind": "content-tool",
+    "language": "JavaScript",
+    "license": "Apache-2.0",
+    "archived": false,
+    "pushed_at": null
+  },
+  {
+    "repo": "pixijs/pixijs",
+    "url": "https://github.com/pixijs/pixijs",
+    "description": "The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.",
+    "stars": 48826,
+    "engines": [
+      "PixiJS"
+    ],
+    "game_types": [
+      "2D"
+    ],
+    "workflow": "Rendering, shaders & visual effects",
+    "reusable_kind": "content-tool",
+    "language": "TypeScript",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-17T13:45:17Z"
+  },
+  {
+    "repo": "pixijs/sound",
+    "url": "https://github.com/pixijs/sound",
+    "description": "WebAudio API playback library, with filters. Modern audio playback for modern browsers.",
+    "stars": 480,
+    "engines": [
+      "PixiJS"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Audio & music",
+    "reusable_kind": "content-tool",
+    "language": "TypeScript",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-04T01:04:19Z"
+  },
+  {
+    "repo": "Planimeter/game-engine-2d",
+    "url": "https://github.com/Planimeter/game-engine-2d",
+    "description": "Planimeter Game Engine 2D - LÖVE-based game engine for Lua",
+    "stars": 751,
+    "engines": [
+      "LÖVE"
+    ],
+    "game_types": [
+      "2D"
+    ],
+    "workflow": "Engines & frameworks",
+    "reusable_kind": "engine/framework",
+    "language": "Lua",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2022-10-03T19:04:58Z"
+  },
+  {
+    "repo": "playcanvas/engine",
+    "url": "https://github.com/playcanvas/engine",
+    "description": "Open-source web graphics engine built on WebGPU and WebGL2",
+    "stars": 17330,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "3D"
+    ],
+    "workflow": "Rendering, shaders & visual effects",
+    "reusable_kind": "content-tool",
+    "language": "JavaScript",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-19T02:14:32Z"
+  },
+  {
+    "repo": "Playgama/bridge",
+    "url": "https://github.com/Playgama/bridge",
+    "description": "One SDK for cross-platform publishing HTML5 games",
+    "stars": 100,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Publishing & monetization",
+    "reusable_kind": "library-or-tool",
+    "language": "TypeScript",
+    "license": "LGPL-3.0",
+    "archived": false,
+    "pushed_at": "2026-11-17T10:43:43Z"
+  },
+  {
+    "repo": "Playgama/bridge-godot-4",
+    "url": "https://github.com/Playgama/bridge-godot-4",
+    "description": "One SDK for cross-platform publishing HTML5 games",
+    "stars": 47,
+    "engines": [
+      "Godot"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Publishing & monetization",
+    "reusable_kind": "library-or-tool",
+    "language": "GDScript",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-10-30T08:02:25Z"
+  },
+  {
+    "repo": "Playgama/bridge-unity",
+    "url": "https://github.com/Playgama/bridge-unity",
+    "description": "One SDK for cross-platform publishing HTML5 games",
+    "stars": 59,
+    "engines": [
+      "Unity"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Publishing & monetization",
+    "reusable_kind": "library-or-tool",
+    "language": "C#",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-11T09:50:26Z"
+  },
+  {
+    "repo": "pmgl/microstudio",
+    "url": "https://github.com/pmgl/microstudio",
+    "description": "Free, open source game engine online",
+    "stars": 1199,
+    "engines": [
+      "Other engines"
+    ],
+    "game_types": [
+      "2D",
+      "3D"
+    ],
+    "workflow": "Engines & frameworks",
+    "reusable_kind": "engine/framework",
+    "language": "JavaScript",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-10-12T08:23:46Z"
+  },
+  {
+    "repo": "pond3r/ggpo",
+    "url": "https://github.com/pond3r/ggpo",
+    "description": "Good Game, Peace Out Rollback Network SDK",
+    "stars": 3627,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Multiplayer & online"
+    ],
+    "workflow": "Networking & multiplayer",
+    "reusable_kind": "library-or-tool",
+    "language": "C++",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2024-06-26T13:59:55Z"
+  },
+  {
+    "repo": "qonversion/unity-sdk",
+    "url": "https://github.com/qonversion/unity-sdk",
+    "description": "Qonversion Unity SDK: iOS and Android purchases confirmed with the stores, entitlements, and the revenue data behind Apple Ads, A/B tests and analytics.",
+    "stars": 55,
+    "engines": [
+      "Unity"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Publishing & monetization",
+    "reusable_kind": "library-or-tool",
+    "language": "C#",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-10-14T11:21:32Z"
+  },
+  {
+    "repo": "quinteroac/ComfyUI-GameAssetsMaker",
+    "url": "https://github.com/quinteroac/ComfyUI-GameAssetsMaker",
+    "description": "Custom ComfyUI nodes for game asset preparation workflows.",
+    "stars": 27,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Asset pipelines & formats",
+    "reusable_kind": "content-tool",
+    "language": "Python",
+    "license": null,
+    "archived": false,
+    "pushed_at": "2026-04-27T05:52:12Z"
+  },
+  {
+    "repo": "r-lyeh-archived/scriptorium",
+    "url": "https://github.com/r-lyeh-archived/scriptorium",
+    "description": ":scroll: Game Scripting Languages benchmarked",
+    "stars": 525,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Architecture, ECS & scripting",
+    "reusable_kind": "library-or-tool",
+    "language": "C",
+    "license": "Unlicense",
+    "archived": false,
+    "pushed_at": "2016-05-24T21:08:09Z"
+  },
+  {
+    "repo": "RadicalCSG/com.chisel",
+    "url": "https://github.com/RadicalCSG/com.chisel",
+    "description": "Chisel CSG Level Editor, for Unity",
+    "stars": 149,
+    "engines": [
+      "Unity"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Levels & world building",
+    "reusable_kind": "content-tool",
+    "language": "C#",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-18T20:25:44Z"
+  },
+  {
+    "repo": "RageAgainstThePixel/unity-setup",
+    "url": "https://github.com/RageAgainstThePixel/unity-setup",
+    "description": "A GitHub action for setting up the Unity Game Engine for CI/CD workflows.",
+    "stars": 12,
+    "engines": [
+      "Unity"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Build, CI & release",
+    "reusable_kind": "library-or-tool",
+    "language": "TypeScript",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-10T02:49:27Z"
+  },
+  {
+    "repo": "RandyGaul/cute_headers",
+    "url": "https://github.com/RandyGaul/cute_headers",
+    "description": "Collection of cross-platform one-file C/C++ libraries with no dependencies, primarily used for games",
+    "stars": 5102,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Gameplay systems, physics & AI",
+    "reusable_kind": "library-or-tool",
+    "language": "C",
+    "license": "NOASSERTION",
+    "archived": false,
+    "pushed_at": "2026-11-03T17:54:36Z"
+  },
+  {
+    "repo": "raysan5/raylib",
+    "url": "https://github.com/raysan5/raylib",
+    "description": "Simple C library for videogame programming.",
+    "stars": 35731,
+    "engines": [
+      "Raylib"
+    ],
+    "game_types": [
+      "2D",
+      "3D"
+    ],
+    "workflow": "Engines & frameworks",
+    "reusable_kind": "engine/framework",
+    "language": "C",
+    "license": "Zlib",
+    "archived": false,
+    "pushed_at": null
+  },
+  {
+    "repo": "raysan5/rfxgen",
+    "url": "https://github.com/raysan5/rfxgen",
+    "description": "A simple and easy-to-use fx sounds generator",
+    "stars": 524,
+    "engines": [
+      "Raylib"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Audio & music",
+    "reusable_kind": "content-tool",
+    "language": "C",
+    "license": "Zlib",
+    "archived": false,
+    "pushed_at": "2026-11-11T11:00:09Z"
+  },
+  {
+    "repo": "rearming/circular-obstacle-pathfinding",
+    "url": "https://github.com/rearming/circular-obstacle-pathfinding",
+    "description": "Implementation of Circular Obstacle Pathfinding (also with A-Star). Integration of Optimal Reciprocal Collision Avoidance.",
+    "stars": 21,
+    "engines": [
+      "Unity"
+    ],
+    "game_types": [
+      "3D"
+    ],
+    "workflow": "Gameplay systems, physics & AI",
+    "reusable_kind": "library-or-tool",
+    "language": "C#",
+    "license": null,
+    "archived": false,
+    "pushed_at": "2020-12-18T07:45:06Z"
+  },
+  {
+    "repo": "recastnavigation/recastnavigation",
+    "url": "https://github.com/recastnavigation/recastnavigation",
+    "description": "Industry-standard navigation-mesh toolset for games",
+    "stars": 8201,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "3D",
+      "Strategy & simulation"
+    ],
+    "workflow": "Gameplay systems, physics & AI",
+    "reusable_kind": "library-or-tool",
+    "language": "C++",
+    "license": "Zlib",
+    "archived": false,
+    "pushed_at": "2026-02-27T07:17:13Z"
+  },
+  {
+    "repo": "RedpointGames/uet",
+    "url": "https://github.com/RedpointGames/uet",
+    "description": "UET (Unreal Engine Tool) makes building and testing Unreal Engine projects and plugins easy.",
+    "stars": 150,
+    "engines": [
+      "Unreal Engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Build, CI & release",
+    "reusable_kind": "library-or-tool",
+    "language": "C#",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-14T02:51:16Z"
+  },
+  {
+    "repo": "Regression-Games/RegressionGames.Unity.Testing",
+    "url": "https://github.com/Regression-Games/RegressionGames.Unity.Testing",
+    "description": "Regression Games Unity Testing SDK",
+    "stars": 13,
+    "engines": [
+      "Unity"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Testing & QA",
+    "reusable_kind": "library-or-tool",
+    "language": "C#",
+    "license": "NOASSERTION",
+    "archived": false,
+    "pushed_at": "2024-02-28T16:59:36Z"
+  },
+  {
+    "repo": "RevenantX/LiteNetLib",
+    "url": "https://github.com/RevenantX/LiteNetLib",
+    "description": "Lite reliable UDP library for Mono and .NET",
+    "stars": 3645,
+    "engines": [
+      "Unity"
+    ],
+    "game_types": [
+      "3D",
+      "Multiplayer & online"
+    ],
+    "workflow": "Networking & multiplayer",
+    "reusable_kind": "library-or-tool",
+    "language": "C#",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-03T11:33:12Z"
+  },
+  {
+    "repo": "rlabrecque/Steamworks.NET",
+    "url": "https://github.com/rlabrecque/Steamworks.NET",
+    "description": "Steamworks wrapper for Unity / C#",
+    "stars": 3662,
+    "engines": [
+      "Unity"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Publishing & monetization",
+    "reusable_kind": "library-or-tool",
+    "language": "C#",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-10-29T05:17:32Z"
+  },
+  {
+    "repo": "RodZill4/material-maker",
+    "url": "https://github.com/RodZill4/material-maker",
+    "description": "A procedural textures authoring and 3D model painting tool based on the Godot game engine",
+    "stars": 6272,
+    "engines": [
+      "Godot"
+    ],
+    "game_types": [
+      "3D"
+    ],
+    "workflow": "Art, sprites, animation & 3D",
+    "reusable_kind": "content-tool",
+    "language": "GDScript",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-11T21:33:46Z"
+  },
+  {
+    "repo": "RonenNess/GeonBit.UI",
+    "url": "https://github.com/RonenNess/GeonBit.UI",
+    "description": "UI system for MonoGame projects.",
+    "stars": 509,
+    "engines": [
+      "MonoGame"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "UI, input, accessibility & localization",
+    "reusable_kind": "library-or-tool",
+    "language": "C#",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2024-04-25T12:18:51Z"
+  },
+  {
+    "repo": "rouges78/GameStringer",
+    "url": "https://github.com/rouges78/GameStringer",
+    "description": "Desktop app that auto-detects a game's engine, extracts the text, translates it with local or cloud AI, and re-applies the patch. 20+ engines, 20+ AI providers, 11 UI languages.",
+    "stars": 143,
+    "engines": [
+      "Godot",
+      "Unity",
+      "Unreal Engine",
+      "Ren’Py"
+    ],
+    "game_types": [
+      "RPG & roguelike"
+    ],
+    "workflow": "UI, input, accessibility & localization",
+    "reusable_kind": "library-or-tool",
+    "language": "TypeScript",
+    "license": "NOASSERTION",
+    "archived": false,
+    "pushed_at": "2026-11-18T20:10:03Z"
+  },
+  {
+    "repo": "SanderMertens/flecs",
+    "url": "https://github.com/SanderMertens/flecs",
+    "description": "A fast entity component system (ECS) for C & C++",
+    "stars": 8854,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Architecture, ECS & scripting",
+    "reusable_kind": "library-or-tool",
+    "language": "C",
+    "license": "NOASSERTION",
+    "archived": false,
+    "pushed_at": "2026-11-19T07:48:28Z"
+  },
+  {
+    "repo": "SandwichCakeStudios/SandwichSteam",
+    "url": "https://github.com/SandwichCakeStudios/SandwichSteam",
+    "description": "Steamworks SDK integration for Unreal Engine 5 on Windows, macOS and Linux.",
+    "stars": 17,
+    "engines": [
+      "Unreal Engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Publishing & monetization",
+    "reusable_kind": "library-or-tool",
+    "language": "C++",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-17T13:41:48Z"
+  },
+  {
+    "repo": "sbiermanlytle/iioEngine",
+    "url": "https://github.com/sbiermanlytle/iioEngine",
+    "description": "iio Engine: A JavaScript game engine for HTML5 Canvas",
+    "stars": 458,
+    "engines": [
+      "Other engines"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Engines & frameworks",
+    "reusable_kind": "engine/framework",
+    "language": "JavaScript",
+    "license": null,
+    "archived": false,
+    "pushed_at": "2026-11-08T04:57:57Z"
+  },
+  {
+    "repo": "schteppe/p2.js",
+    "url": "https://github.com/schteppe/p2.js",
+    "description": "JavaScript 2D physics library",
+    "stars": 2694,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "2D"
+    ],
+    "workflow": "Gameplay systems, physics & AI",
+    "reusable_kind": "library-or-tool",
+    "language": "JavaScript",
+    "license": "NOASSERTION",
+    "archived": false,
+    "pushed_at": "2022-07-09T03:13:18Z"
+  },
+  {
+    "repo": "sdslabs/Rootex",
+    "url": "https://github.com/sdslabs/Rootex",
+    "description": "An advanced C++ 3D game engine powering an in-production game yet to be announced",
+    "stars": 235,
+    "engines": [
+      "Other engines"
+    ],
+    "game_types": [
+      "3D"
+    ],
+    "workflow": "Engines & frameworks",
+    "reusable_kind": "engine/framework",
+    "language": "C++",
+    "license": "NOASSERTION",
+    "archived": false,
+    "pushed_at": "2025-05-04T11:07:39Z"
+  },
+  {
+    "repo": "Sector9Ltd/UE5-Build-Project",
+    "url": "https://github.com/Sector9Ltd/UE5-Build-Project",
+    "description": "Build, cook, stage, package and archive an Unreal project with RunUAT.",
+    "stars": 82,
+    "engines": [
+      "Unreal Engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Build, CI & release",
+    "reusable_kind": "library-or-tool",
+    "language": null,
+    "license": "NOASSERTION",
+    "archived": false,
+    "pushed_at": "2026-10-06T20:56:57Z"
+  },
+  {
+    "repo": "shader-park/shader-park-core",
+    "url": "https://github.com/shader-park/shader-park-core",
+    "description": "A JavaScript library for creating real-time 2D and 3D shaders. JS -> Shader. https://shaderpark.com/ https://twitter.com/shaderpark",
+    "stars": 834,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "2D",
+      "3D"
+    ],
+    "workflow": "Rendering, shaders & visual effects",
+    "reusable_kind": "content-tool",
+    "language": "JavaScript",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-10-05T14:35:57Z"
+  },
+  {
+    "repo": "sinai-dev/UnityExplorer",
+    "url": "https://github.com/sinai-dev/UnityExplorer",
+    "description": "An in-game UI for exploring, debugging and modifying IL2CPP and Mono Unity games.",
+    "stars": 3144,
+    "engines": [
+      "Unity"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Debugging & profiling",
+    "reusable_kind": "library-or-tool",
+    "language": "C#",
+    "license": "GPL-3.0",
+    "archived": true,
+    "pushed_at": "2023-03-13T17:35:42Z"
+  },
+  {
+    "repo": "SirFroweey/PyDark",
+    "url": "https://github.com/SirFroweey/PyDark",
+    "description": "PyDark is a 2D and Online Multiplayer video game framework written on-top of Python and PyGame.",
+    "stars": 220,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "2D",
+      "Multiplayer & online"
+    ],
+    "workflow": "Networking & multiplayer",
+    "reusable_kind": "library-or-tool",
+    "language": "Python",
+    "license": null,
+    "archived": false,
+    "pushed_at": "2021-08-27T22:17:58Z"
+  },
+  {
+    "repo": "sirjuddington/SLADE",
+    "url": "https://github.com/sirjuddington/SLADE",
+    "description": "It's a Doom editor",
+    "stars": 884,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Levels & world building",
+    "reusable_kind": "content-tool",
+    "language": "C++",
+    "license": "GPL-2.0",
+    "archived": false,
+    "pushed_at": "2026-11-19T06:15:08Z"
+  },
+  {
+    "repo": "sketchpunklabs/ossos",
+    "url": "https://github.com/sketchpunklabs/ossos",
+    "description": "Webbased Character Animation System",
+    "stars": 508,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Art, sprites, animation & 3D",
+    "reusable_kind": "content-tool",
+    "language": "TypeScript",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2025-11-19T05:02:48Z"
+  },
+  {
+    "repo": "skylicht-lab/skylicht-engine",
+    "url": "https://github.com/skylicht-lab/skylicht-engine",
+    "description": "Skylicht Engine is C++ Game Engine based on Irrlicht 3D. And my goal is to create a high-performance and lightweight Game Framework that can seamlessly function on both web and mobile platforms.",
+    "stars": 773,
+    "engines": [
+      "Other engines"
+    ],
+    "game_types": [
+      "3D"
+    ],
+    "workflow": "Engines & frameworks",
+    "reusable_kind": "engine/framework",
+    "language": "C++",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-17T08:47:39Z"
+  },
+  {
+    "repo": "skypjack/entt",
+    "url": "https://github.com/skypjack/entt",
+    "description": "Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more",
+    "stars": 13279,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Architecture, ECS & scripting",
+    "reusable_kind": "library-or-tool",
+    "language": "C++",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-18T08:09:47Z"
+  },
+  {
+    "repo": "stride3d/stride",
+    "url": "https://github.com/stride3d/stride",
+    "description": "Cross-platform C# game engine.",
+    "stars": 7954,
+    "engines": [
+      "Stride"
+    ],
+    "game_types": [
+      "2D",
+      "3D"
+    ],
+    "workflow": "Engines & frameworks",
+    "reusable_kind": "engine/framework",
+    "language": "C#",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": null
+  },
+  {
+    "repo": "studentutu/UnityTemplateArchitecture",
+    "url": "https://github.com/studentutu/UnityTemplateArchitecture",
+    "description": "Base Template for Unity Projects, IOC, MVC, Message Broker,Unitask, ECS-Entitas, Addressables, Tests, profiling, CI/CD/staging",
+    "stars": 17,
+    "engines": [
+      "Unity"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Build, CI & release",
+    "reusable_kind": "library-or-tool",
+    "language": "C#",
+    "license": null,
+    "archived": false,
+    "pushed_at": "2023-05-21T16:35:02Z"
+  },
+  {
+    "repo": "TaloDev/godot",
+    "url": "https://github.com/TaloDev/godot",
+    "description": "Talo's Godot plugin for open source leaderboards, stats, auth, game saves and more",
+    "stars": 251,
+    "engines": [
+      "Godot"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Backend, persistence & live operations",
+    "reusable_kind": "library-or-tool",
+    "language": "GDScript",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-16T19:26:19Z"
+  },
+  {
+    "repo": "TaloDev/unity",
+    "url": "https://github.com/TaloDev/unity",
+    "description": "Talo's Unity package for open source leaderboards, stats, auth, game saves and more",
+    "stars": 43,
+    "engines": [
+      "Unity"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Backend, persistence & live operations",
+    "reusable_kind": "library-or-tool",
+    "language": "C#",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-16T19:37:10Z"
+  },
+  {
+    "repo": "Tencent/BqLog",
+    "url": "https://github.com/Tencent/BqLog",
+    "description": "A lightweight, high-performance, industrial-grade cross-language logging library (C++/Java/C#/Kotlin/TS/Python/Go), battle-tested in Honor of Kings.",
+    "stars": 737,
+    "engines": [
+      "Unity",
+      "Unreal Engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Debugging & profiling",
+    "reusable_kind": "library-or-tool",
+    "language": "C++",
+    "license": "NOASSERTION",
+    "archived": false,
+    "pushed_at": "2026-11-18T06:13:47Z"
+  },
+  {
+    "repo": "Theodeus/tuna",
+    "url": "https://github.com/Theodeus/tuna",
+    "description": "An audio effects library for the Web Audio API.",
+    "stars": 1835,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Audio & music",
+    "reusable_kind": "content-tool",
+    "language": "JavaScript",
+    "license": null,
+    "archived": false,
+    "pushed_at": "2026-04-06T21:23:08Z"
+  },
+  {
+    "repo": "timi-liuliang/echo",
+    "url": "https://github.com/timi-liuliang/echo",
+    "description": "A New Cross-Platform 2D 3D Game Engine",
+    "stars": 995,
+    "engines": [
+      "Other engines"
+    ],
+    "game_types": [
+      "2D",
+      "3D"
+    ],
+    "workflow": "Engines & frameworks",
+    "reusable_kind": "engine/framework",
+    "language": "C++",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-09-16T16:36:28Z"
+  },
+  {
+    "repo": "tobyselway/bevy-autoplay",
+    "url": "https://github.com/tobyselway/bevy-autoplay",
+    "description": "Automated integration testing based on recorded play-testing sessions",
+    "stars": 33,
+    "engines": [
+      "Bevy"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Testing & QA",
+    "reusable_kind": "library-or-tool",
+    "language": "Rust",
+    "license": "Apache-2.0",
+    "archived": false,
+    "pushed_at": "2024-06-09T00:38:20Z"
+  },
+  {
+    "repo": "tomicz/steam-pipe-gui-macos-unity",
+    "url": "https://github.com/tomicz/steam-pipe-gui-macos-unity",
+    "description": "SteamPipeGUI for macOS: build and upload Unity games to Steam from the Unity Editor on Mac, with no steamcmd commands or VDF scripts to write.",
+    "stars": 31,
+    "engines": [
+      "Unity"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Publishing & monetization",
+    "reusable_kind": "library-or-tool",
+    "language": "C#",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-10-21T16:37:56Z"
+  },
+  {
+    "repo": "Tonejs/Tone.js",
+    "url": "https://github.com/Tonejs/Tone.js",
+    "description": "A Web Audio framework for making interactive music in the browser.",
+    "stars": 14933,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Audio & music",
+    "reusable_kind": "content-tool",
+    "language": "TypeScript",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-15T13:44:00Z"
+  },
+  {
+    "repo": "TrenchBroom/TrenchBroom",
+    "url": "https://github.com/TrenchBroom/TrenchBroom",
+    "description": "Cross-Platform Level Editor",
+    "stars": 2916,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Levels & world building",
+    "reusable_kind": "content-tool",
+    "language": "C++",
+    "license": "GPL-3.0",
+    "archived": false,
+    "pushed_at": "2026-11-17T09:01:29Z"
+  },
+  {
+    "repo": "Trouv/bevy_ecs_ldtk",
+    "url": "https://github.com/Trouv/bevy_ecs_ldtk",
+    "description": "ECS-friendly ldtk plugin for bevy, leveraging bevy_ecs_tilemap",
+    "stars": 900,
+    "engines": [
+      "Bevy"
+    ],
+    "game_types": [
+      "2D"
+    ],
+    "workflow": "Levels & world building",
+    "reusable_kind": "content-tool",
+    "language": "Rust",
+    "license": "NOASSERTION",
+    "archived": false,
+    "pushed_at": "2026-10-25T19:10:48Z"
+  },
+  {
+    "repo": "trudeaua21/EasyAccessibilityPackage",
+    "url": "https://github.com/trudeaua21/EasyAccessibilityPackage",
+    "description": "A Unity package designed to make accessible game development as simple as possible.",
+    "stars": 16,
+    "engines": [
+      "Unity"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "UI, input, accessibility & localization",
+    "reusable_kind": "library-or-tool",
+    "language": "C#",
+    "license": "MIT",
+    "archived": true,
+    "pushed_at": "2024-01-09T12:19:15Z"
+  },
+  {
+    "repo": "turanszkij/WickedEngine",
+    "url": "https://github.com/turanszkij/WickedEngine",
+    "description": "Modern 3D game engine.",
+    "stars": 7369,
+    "engines": [
+      "Wicked Engine"
+    ],
+    "game_types": [
+      "3D"
+    ],
+    "workflow": "Engines & frameworks",
+    "reusable_kind": "engine/framework",
+    "language": "C++",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": null
+  },
+  {
+    "repo": "tweenjs/tween.js",
+    "url": "https://github.com/tweenjs/tween.js",
+    "description": "JavaScript/TypeScript animation engine",
+    "stars": 10159,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Art, sprites, animation & 3D",
+    "reusable_kind": "content-tool",
+    "language": "TypeScript",
+    "license": "NOASSERTION",
+    "archived": false,
+    "pushed_at": "2026-11-17T18:51:33Z"
+  },
+  {
+    "repo": "Unity-Technologies/AssetBundles-Browser",
+    "url": "https://github.com/Unity-Technologies/AssetBundles-Browser",
+    "description": "Editor tool for viewing and debugging asset bundle contents before and after builds",
+    "stars": 2407,
+    "engines": [
+      "Unity"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Asset pipelines & formats",
+    "reusable_kind": "content-tool",
+    "language": "C#",
+    "license": "NOASSERTION",
+    "archived": false,
+    "pushed_at": "2026-02-13T17:29:05Z"
+  },
+  {
+    "repo": "Unity-Technologies/com.unity.netcode.gameobjects",
+    "url": "https://github.com/Unity-Technologies/com.unity.netcode.gameobjects",
+    "description": "Netcode for GameObjects is a high-level netcode SDK that provides networking capabilities to GameObject/MonoBehaviour workflows within Unity and sits on top of underlying transport layer.",
+    "stars": 2333,
+    "engines": [
+      "Unity"
+    ],
+    "game_types": [
+      "3D",
+      "Multiplayer & online"
+    ],
+    "workflow": "Networking & multiplayer",
+    "reusable_kind": "library-or-tool",
+    "language": "C#",
+    "license": "NOASSERTION",
+    "archived": false,
+    "pushed_at": "2026-11-18T17:27:58Z"
+  },
+  {
+    "repo": "Unity-Technologies/giles",
+    "url": "https://github.com/Unity-Technologies/giles",
+    "description": "GILES: A Runtime Level Editor for Unity3D",
+    "stars": 795,
+    "engines": [
+      "Unity"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Levels & world building",
+    "reusable_kind": "content-tool",
+    "language": "C#",
+    "license": "NOASSERTION",
+    "archived": false,
+    "pushed_at": "2021-12-22T10:27:14Z"
+  },
+  {
+    "repo": "UPBGE/upbge",
+    "url": "https://github.com/UPBGE/upbge",
+    "description": "UPBGE, the best integrated game engine in Blender",
+    "stars": 1875,
+    "engines": [
+      "UPBGE"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Engines & frameworks",
+    "reusable_kind": "engine/framework",
+    "language": "C++",
+    "license": "NOASSERTION",
+    "archived": false,
+    "pushed_at": "2026-11-19T05:00:49Z"
+  },
+  {
+    "repo": "ValveSoftware/GameNetworkingSockets",
+    "url": "https://github.com/ValveSoftware/GameNetworkingSockets",
+    "description": "Reliable & unreliable messages over UDP. Robust message fragmentation & reassembly. P2P networking / NAT traversal. Encryption.",
+    "stars": 10087,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Multiplayer & online"
+    ],
+    "workflow": "Networking & multiplayer",
+    "reusable_kind": "library-or-tool",
+    "language": "C++",
+    "license": "BSD-3-Clause",
+    "archived": false,
+    "pushed_at": "2026-10-03T01:40:16Z"
+  },
+  {
+    "repo": "ValveSoftware/steam-audio",
+    "url": "https://github.com/ValveSoftware/steam-audio",
+    "description": "Steam Audio",
+    "stars": 3007,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "VR & XR"
+    ],
+    "workflow": "Audio & music",
+    "reusable_kind": "content-tool",
+    "language": "C++",
+    "license": "Apache-2.0",
+    "archived": false,
+    "pushed_at": "2026-03-25T17:13:21Z"
+  },
+  {
+    "repo": "vanyle/vectarine",
+    "url": "https://github.com/vanyle/vectarine",
+    "description": "A free cross-platform game engine focusing on fast prototyping and having fun with Luau scripting",
+    "stars": 140,
+    "engines": [
+      "Other engines"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Engines & frameworks",
+    "reusable_kind": "engine/framework",
+    "language": "Luau",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-13T23:23:47Z"
+  },
+  {
+    "repo": "vini-guerrero/godot-exporter",
+    "url": "https://github.com/vini-guerrero/godot-exporter",
+    "description": "Godot Engine Automation Pipeline Android – iOS – Linux – MacOS – Windows – HTML5 – Itch.io.",
+    "stars": 74,
+    "engines": [
+      "Godot"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Build, CI & release",
+    "reusable_kind": "library-or-tool",
+    "language": "Shell",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2021-08-27T17:27:31Z"
+  },
+  {
+    "repo": "vulkano-rs/vulkano",
+    "url": "https://github.com/vulkano-rs/vulkano",
+    "description": "Safe and rich Rust wrapper around the Vulkan API",
+    "stars": 5193,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Rendering, shaders & visual effects",
+    "reusable_kind": "content-tool",
+    "language": "Rust",
+    "license": "Apache-2.0",
+    "archived": false,
+    "pushed_at": "2026-11-04T09:22:54Z"
+  },
+  {
+    "repo": "waiterve/wai-play",
+    "url": "https://github.com/waiterve/wai-play",
+    "description": "AI-based web-game testing and quality-evaluation platform.",
+    "stars": 256,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Testing & QA",
+    "reusable_kind": "library-or-tool",
+    "language": "Python",
+    "license": null,
+    "archived": false,
+    "pushed_at": null
+  },
+  {
+    "repo": "willtobyte/carimbo",
+    "url": "https://github.com/willtobyte/carimbo",
+    "description": "A 2D game engine developed in modern C++ using SDL, an Entity-Component-System (ECS) architecture, miniaudio, and Box2D. It features Lua scripting and is designed for web portability via WebAssembly",
+    "stars": 187,
+    "engines": [
+      "SDL/SFML"
+    ],
+    "game_types": [
+      "2D"
+    ],
+    "workflow": "Engines & frameworks",
+    "reusable_kind": "engine/framework",
+    "language": "C++",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-06-23T20:41:26Z"
+  },
+  {
+    "repo": "wolfpld/tracy",
+    "url": "https://github.com/wolfpld/tracy",
+    "description": "Frame profiler",
+    "stars": 17143,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Debugging & profiling",
+    "reusable_kind": "library-or-tool",
+    "language": "C++",
+    "license": "NOASSERTION",
+    "archived": false,
+    "pushed_at": "2026-11-18T13:55:36Z"
+  },
+  {
+    "repo": "xissburg/edyn",
+    "url": "https://github.com/xissburg/edyn",
+    "description": "Edyn is a real-time physics engine organized as an ECS.",
+    "stars": 795,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Gameplay systems, physics & AI",
+    "reusable_kind": "library-or-tool",
+    "language": "C++",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-09-08T17:26:13Z"
+  },
+  {
+    "repo": "YarnSpinnerTool/YarnSpinner",
+    "url": "https://github.com/YarnSpinnerTool/YarnSpinner",
+    "description": "The core compiler and engine-agnostic components for Yarn Spinner, the friendly dialogue tool.",
+    "stars": 2878,
+    "engines": [
+      "Unity"
+    ],
+    "game_types": [
+      "Narrative & visual novel"
+    ],
+    "workflow": "Game design & planning",
+    "reusable_kind": "library-or-tool",
+    "language": "C#",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-19T03:21:38Z"
+  },
+  {
+    "repo": "yasirkula/UnityIngameDebugConsole",
+    "url": "https://github.com/yasirkula/UnityIngameDebugConsole",
+    "description": "A uGUI based console to see debug messages and execute commands during gameplay in Unity",
+    "stars": 2756,
+    "engines": [
+      "Unity"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Debugging & profiling",
+    "reusable_kind": "library-or-tool",
+    "language": "C#",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-07T10:55:55Z"
+  },
+  {
+    "repo": "yasirkula/UnityRuntimeInspector",
+    "url": "https://github.com/yasirkula/UnityRuntimeInspector",
+    "description": "Runtime Inspector and Hierarchy solution for Unity for debugging and runtime editing purposes",
+    "stars": 2180,
+    "engines": [
+      "Unity"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Debugging & profiling",
+    "reusable_kind": "library-or-tool",
+    "language": "C#",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-09T20:01:18Z"
+  },
+  {
+    "repo": "zpl-c/librg",
+    "url": "https://github.com/zpl-c/librg",
+    "description": "🚀 Making multi-player gamedev simpler since 2017",
+    "stars": 1520,
+    "engines": [
+      "Cross-engine"
+    ],
+    "game_types": [
+      "Multiplayer & online"
+    ],
+    "workflow": "Networking & multiplayer",
+    "reusable_kind": "library-or-tool",
+    "language": "C",
+    "license": "BSD-3-Clause",
+    "archived": false,
+    "pushed_at": "2026-01-31T12:33:07Z"
+  },
+  {
+    "repo": "Zylann/zprofiler",
+    "url": "https://github.com/Zylann/zprofiler",
+    "description": "A CPU time profiler for Godot Engine",
+    "stars": 17,
+    "engines": [
+      "Godot"
+    ],
+    "game_types": [
+      "Cross-genre"
+    ],
+    "workflow": "Debugging & profiling",
+    "reusable_kind": "library-or-tool",
+    "language": "C++",
+    "license": "NOASSERTION",
+    "archived": false,
+    "pushed_at": "2020-07-27T02:12:12Z"
+  }
+]
